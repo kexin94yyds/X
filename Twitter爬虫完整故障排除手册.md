@@ -1,4 +1,4 @@
-# Twitter 爬虫完整使用指南
+# Twitter 爬虫完整故障排除手册
 
 ## 📋 目录
 - [问题排除指南](#问题排除指南)
@@ -17,39 +17,122 @@
 
 ### 🚨 症状表现
 ```bash
-cd ~/Desktop/爬推特 && cp NavalismHQ.zsh blogger.zsh && sed -i '' 's/@NavalismHQ/@BLOGGER_HANDLE/' blogger.zsh && sed -i '' 's/--limit 1000/--limit 1000/' blogger.zsh && ./blogger.zsh && echo "📂 开始年份分类..." && name="BLOGGER_NAME" && for year in 2025 2024 2023 2022 2021 2020 2019 2018; do grep "^$year" ${name}_test.txt > ${name}_${year}.txt 2>/dev/null; count=$(wc -l < ${name}_${year}.txt 2>/dev/null || echo "0"); if [ "$count" -gt 0 ]; then echo "✅ $year年: $count 条推文 → ${name}_${year}.txt"; else rm -f ${name}_${year}.txt; fi; done
+# 运行爬虫时出现
+jq: parse error: Invalid numeric literal at line 1, column 4
+✅ 完成：共 0 条推文 → 文件名.txt
+
+# 检查账户状态
+twscrape accounts
+# 输出为空或显示 Total: 0
+
+twscrape stats
+# 显示 Total: 0 - Active: 0 - Inactive: 0
 ```
 
-**使用前替换：**
-- `@BLOGGER_HANDLE` → 目标博主（如 `@elonmusk`）
-- `BLOGGER_NAME` → 博主名称（如 `elonmusk`）
+### 🔍 问题原因
+1. **Twitter 账户认证过期** - cookies 失效或被撤销
+2. **数据库被重置** - twscrape 数据库文件损坏或清空
+3. **账户被限制** - Twitter 检测到自动化行为
+4. **系统更新** - twscrape 版本更新导致配置丢失
 
-**示例：爬取 Elon Musk**
+### ✅ 解决方案
+
+#### 步骤1: 诊断问题
 ```bash
-cd ~/Desktop/爬推特 && cp NavalismHQ.zsh blogger.zsh && sed -i '' 's/@NavalismHQ/@elonmusk/' blogger.zsh && sed -i '' 's/--limit 1000/--limit 1000/' blogger.zsh && ./blogger.zsh && echo "📂 开始年份分类..." && name="elonmusk" && for year in 2025 2024 2023 2022 2021 2020 2019 2018; do grep "^$year" ${name}_test.txt > ${name}_${year}.txt 2>/dev/null; count=$(wc -l < ${name}_${year}.txt 2>/dev/null || echo "0"); if [ "$count" -gt 0 ]; then echo "✅ $year年: $count 条推文 → ${name}_${year}.txt"; else rm -f ${name}_${year}.txt; fi; done
+# 检查账户状态
+twscrape accounts
+twscrape stats
+
+# 检查数据库
+sqlite3 accounts.db "SELECT count(*) FROM accounts;"
 ```
 
+#### 步骤2: 重新配置账户
+```bash
+# 创建账户配置文件
+echo 'myacc:_:_:_:你的cookies字符串' > accounts.txt
+
+# 添加账户
+twscrape add_accounts accounts.txt "username:email:password:email_password:cookies"
+
+# 登录账户
+twscrape login_accounts
+
+# 验证配置
+twscrape accounts
+twscrape stats
+```
+
+#### 步骤3: 获取 Twitter Cookies
+1. 打开浏览器，登录 Twitter/X
+2. 按 F12 打开开发者工具
+3. 进入 Application/Storage → Cookies → x.com
+4. 复制所有 cookies，格式如：
+```
+_cf_bm=值; att=值; auth_token=值; ct0=值; guest_id=值; kdt=值; twid=值
+```
+
+### 📝 预防措施
+- 定期备份 `accounts.db` 文件
+- 避免频繁大量爬取
+- 使用多个账户轮换
+- 监控账户状态
+
 ---
 
-## 🎯 功能简介
-一键爬取任意 Twitter 博主的推文，自动按年份分类保存为独立文件。
+## 问题2: 代理连接错误
 
-**输出效果：**
-- `博主名_test.txt` - 完整推文文件
-- `博主名_2025.txt` - 2025年推文
-- `博主名_2024.txt` - 2024年推文
-- （其他年份文件...）
+### 🚨 症状表现
+```bash
+[proxychains] Strict chain  ...  127.0.0.1:9050  ...  timeout
+httpx.ConnectError: All connection attempts failed
+```
+
+### 🔍 问题原因
+1. **代理配置错误** - 端口号不正确
+2. **代理服务未启动** - Clash/代理软件未运行
+3. **配置文件路径错误** - proxychains 配置文件位置不对
+
+### ✅ 解决方案
+
+#### 步骤1: 检查代理服务
+```bash
+# 检查 Clash 是否运行
+ps aux | grep clash
+
+# 检查端口是否开放
+lsof -i :33210
+
+# 测试代理连接
+curl -x http://127.0.0.1:33210 -s -o /dev/null -w "%{http_code}" https://x.com
+```
+
+#### 步骤2: 修正代理配置
+```bash
+# 创建正确的代理配置文件
+echo -e "strict_chain\nproxy_dns\n[ProxyList]\nhttp 127.0.0.1 33210" > /tmp/proxychains.conf
+
+# 验证配置
+cat /tmp/proxychains.conf
+```
+
+#### 步骤3: 测试连接
+```bash
+# 测试代理是否工作
+proxychains4 -f /tmp/proxychains.conf curl -s https://x.com | head -5
+```
+
+### 📝 常见端口
+- **Clash**: 33210 (HTTP), 33211 (SOCKS)
+- **V2Ray**: 1080, 10809
+- **Shadowsocks**: 1080
+- **Tor**: 9050
 
 ---
 
-## 🛠️ 首次配置（新用户必看）
+## 问题3: jq 解析错误
 
-### 📋 环境要求
-- **系统**: macOS 或 Linux
-- **Python**: 3.7+ 版本
-- **代理**: 需要可用的 HTTP 代理服务
-
-### 安装依赖
+### 🚨 症状表现
 ```bash
 jq: parse error: Invalid numeric literal at line 1, column 4
 ```
@@ -74,6 +157,50 @@ proxychains4 -f /tmp/proxychains.conf twscrape user_tweets "用户ID" --limit 1
 - 确认 twscrape 账户配置正确
 - 检查代理连接状态
 - 测试不同的用户名
+
+---
+
+## 问题4: 接口限流与切换策略
+
+### 🚨 症状表现
+```bash
+2025-09-26 HH:MM:SS | INFO | No account available for queue "UserByScreenName". Next available at 15:37:02
+```
+
+### 🔍 问题原因
+1. twscrape 按接口类型使用独立队列（如 UserByScreenName、Search 等）
+2. 队列被限流后会进入冷却窗口，同队列接口调用都会失败或阻塞
+
+### ✅ 解决方案（推荐流程）
+1. 确认代理可用（建议使用 Clash 混合端口 HTTP 7897）：
+```bash
+echo -e "strict_chain\nproxy_dns\n[ProxyList]\nhttp 127.0.0.1 7897" > /tmp/proxychains.conf
+proxychains4 -f /tmp/proxychains.conf curl -s -o /dev/null -w "%{http_code}" https://x.com
+```
+2. 避开被限流的队列，优先改用 Search 队列：
+```bash
+proxychains4 -f /tmp/proxychains.conf twscrape search "from:naval" --limit 200
+```
+3. 将输出格式化并按年分类：
+```bash
+proxychains4 -f /tmp/proxychains.conf twscrape search "from:${name}" --limit 200 \
+| jq -r '.date + "\t" + (.rawContent | gsub("\n"; " ") | gsub("\r"; " "))' \
+| while IFS=$'\t' read -r date content; do \
+    d=$(date -j -f "%Y-%m-%dT%H:%M:%S" "${date:0:19}" "+%Y-%m-%d" 2>/dev/null || echo "${date:0:10}"); \
+    echo "$d\t$content"; \
+  done > ${name}_test.txt
+
+for year in 2025 2024 2023 2022 2021 2020 2019 2018; do \
+  grep "^$year" ${name}_test.txt > ${name}_${year}.txt 2>/dev/null; \
+  c=$(wc -l < ${name}_${year}.txt 2>/dev/null || echo "0"); \
+  if [ "$c" -gt 0 ]; then echo "✅ $year年: $c 条推文 → ${name}_${year}.txt"; else rm -f ${name}_${year}.txt; fi; \
+done
+```
+
+### 📝 小结
+- 队列限流≠全局不可用，换用不同队列（Search）可立即恢复
+- 代理建议使用 Clash 混合端口 HTTP 7897（更通用）
+- 将“接口切换”为标准排障第 2 步（在账户和网络正常后）
 
 ---
 

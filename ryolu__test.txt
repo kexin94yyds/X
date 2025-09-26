@@ -1,0 +1,734 @@
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-07-06	finally visited Pixar  felt like a magical place for creative minds to wonder, jam, fail, try again  what struck me most wasn’t the films and artful tech we all love, it was everything that never made it. the graveyard of ideas, concept art, years of work that got rewritten, scrapped, torn apart.  they don’t chase trends. they chase something honest. and they’ll tear it down again and again until it feels true.  nothing is ever “done” only better than the last version
+2025-07-04	the team is cooking
+2025-07-04	Let @ryolu_ cook https://t.co/AF7mCgd6Ge
+2025-07-03	Cursor 1.2 Now with To-dos, Queued Messages, faster Tab,  Agents on Web + Mobile Have fun playing!
+2025-07-03	Cursor can now make to-do lists, search PRs, and queue messages. We’ve also made Tab much faster. https://t.co/r501BWgJId
+2025-07-01	how do you prompt the AI? tell me what you find works best 👇
+2025-07-01	my workflow now is short prompts with simple constraints  i do not expect a perfect answer back every time. i cede control to the models to let it be more creative. i @ add context to give it clues.  the back and forth human-ai dance feels the most fun to me https://t.co/Lb4TgjI3qU
+2025-07-01	the dream’s now real and we’re way ahead of schedule thanks to @milichab @JasonBud + a 🔥 crew the kitchen’s cooking https://t.co/AJe7BMciR0
+2025-06-30	I joined @cursor_ai to build the future of coding - and, as of today, you can code from anywhere, with a coding assistant on every web browser and phone  Check it out!
+2025-06-30	what’s this on my home screen? https://t.co/5buYhwLHRn https://t.co/H5u6hC6TA3
+2025-06-30	RT @kregenrek: Cursor is now available on your phone.  - Create many tasks in parallel - Choose your project and model  - View and manage your tasklist - Create follow-ups - Create PR and let Bugbot Review them  When you get home, continue working directly in Cursor https://t.co/U4yyQ2EqyG
+2025-06-30	Cursor is now available on your phone.  - Create many tasks in parallel - Choose your project and model  - View and manage your tasklist - Create follow-ups - Create PR and let Bugbot Review them  When you get home, continue working directly in Cursor https://t.co/U4yyQ2EqyG
+2025-06-30	take Cursor Agents anywhere start ideas on your phone, slack, any browser then seamlessly finish off in the IDE  also say hi to @JasonBud and @milichab!🫰
+2025-06-30	Cursor is now on your phone and on the web.  Spin off dozens of agents and review them later in your editor. https://t.co/y7mOlA9h07
+2025-06-30	go to https://t.co/5buYhwLHRn then add to your iOS home screen or install on Android, Chrome
+2025-06-30	on future of AI interfaces:  future interfaces flow like water — meeting people how they actually think, not how we assume they should  some of us think in bullet points, some in conversations, others need to see everything mapped out visually. the magic happens when the interface adapts to match your specific cognitive style instead of forcing everyone through the same chat box  imagine AI that knows you process complex info better as a timeline, or that you prefer quick back-and-forth over long explanations. it shifts between chat, canvas, tables, whatever actually works for how you think, but acting on the same ground truth  we're moving from “here's one single-purposefully built interface, deal with it” to interfaces that genuinely fit how minds and teams operate. not just understanding what you want, but how you want to receive and work with it  the breakthrough isn't more features — it's interfaces that feel invisible because they match your natural thought patterns perfectly — the ideal form of “it just works.” it grows from something simple and universal, into forms that capture the beautiful complexities of individual minds  rigid UIs assume everyone thinks the same way. adaptive interfaces recognize that great tools should bend to the user, not the other way around
+2025-06-28	10x engs are now 1000x with @cursor_ai multi-agents have you unlocked yourself yet?
+2025-06-28	just a regular day of output for me these days, coding with cursor – honestly, still mindblowing that this is possible https://t.co/jcVhEREkmk
+2025-06-27	new baby agent in Protoland now i can click on things and say "make it bigger" https://t.co/UPIpSXgODC
+2025-06-25	just made a new prototyping tool for react components, live props, on a canvas  this was 2hrs from scratch — with new multi-agent ux + to-dos in @cursor_ai, kinda magic! https://t.co/zaZWA8RUhQ
+2025-06-27	crazy seeing so many designers pulling PRs, many for the first time  no more killing the “nice to haves” or redlines — make them all in @cursor_ai
+2025-06-26	There's some magic happening in the @intercom design org right now 👀   I kid you not I took more notes from tomorrow's episode with @thoughtwax than any Dive Club convo ever...  Think you're gonna like this one ✌️ https://t.co/7iNgxaHoRN
+2025-06-26	we got nice flows queued up for you, shipping soon in @cursor_ai
+2025-06-26	@thekitze like this? https://t.co/cTtc61GNZk
+2025-06-26	from baby cursor to cursor
+2025-04-05	baby cursor already useful: came up with new ideas for stop + queuing  made with @cursor_ai + Gemini 2.5 Pro MAX https://t.co/a6DE0ClBNk
+2025-06-26	added Styles to Protoland i used to be a @tailwindcss hater now i love it cause models are so good at it https://t.co/g41dueTKy3
+2025-06-26	after a few more prompts:  not sure where this is going but kinda cool! 😎 https://t.co/YltoSORypM
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-06-24	greatness lies in contradictions:  real magic happens in the tension between opposites, not in choosing sides  most people think paradoxes need to be resolved, but the masters live in that sweet spot where contradictions dance together. like how the best tools feel dead simple on the surface but pack infinite depth underneath — think how Notion starts as a blank page but can model most saas, or how Cursor feels instantly familiar but rewrites how we build software  speed vs quality isn't about compromise — it's about finding the rhythm where they amplify each other. when you move fast, you learn fast, and learning fast makes your quality intuition sharper. slow perfectionism and bureaucracy often produce mediocre work because you're optimizing in a vacuum  hiring is the wildest paradox — you need people so good they could start their own thing, but who choose to build something bigger together. and titles are bs. density over growth means saying no to 90% of "good" people to find the 10% who are obsessed with the same impossible thing you are. passion can't be taught but it can be recognized instantly  metrics vs intuition is where most companies die. metrics tell you what happened, intuition tells you what's possible. the best builders use data to validate their hunches, not replace them. when your gut says something's off but the numbers look good, trust the gut — it's absorbing all signals the dashboards can't capture  excellence isn't about perfection, it's about holding multiple truths simultaneously and finding the path that honors all of them. it's tao vibes: the way that can be measured isn't the true Way
+2025-06-24	Tidying up the @cursor_ai Agent chat 💬  Do you prefer seeing more details, or a more compact view? https://t.co/PQJdapUQKe
+2025-06-20	Cursor for x is Cursor where domain experts in every industry can make the best tools
+2025-06-20	AI Agents create a major TAM expansion in software because you can bring automation to many industries for the first time. Verticals dominated by unstructured data and workflows like legal, healthcare, consulting, and major parts of finance can now actually go digital.
+2025-06-19	new ideas or bug fixes just @ cursor in slack and they’ll get done⏳✅
+2025-06-19	Cursor is now in Slack! https://t.co/tlvCdiqPvg
+2025-06-19	yes to queuing, and how about a kanban board for your whole fleet of agents? https://t.co/xtMOBmIyEg
+2025-06-18	i want to be able to queue messages in cursor. (e.g. send a follow up while it's still thinking about the previous message)  cc/ @ryolu_
+2025-06-18	Only in @cursor_ai: o3, Gemini, Opus, Sonnet. One tool. One subscription.  And soon: Multi-agent. Multi-model. Any workflow. Anywhere.
+2025-06-17	Introducing the Gemini 2.5 model family:  - Gemini 2.5 Pro (Stable, no changes from 06-05) - Gemini 2.5 Flash (Stable, updated pricing from 05-20) - Gemini 2.5 Flash-Lite (Preview, small reasoning model)  More info in 🧵
+2025-06-18	1970: CLI — you write to the machine 1984: GUI — you click, drag, drop 2007: Multi-Touch — the pointer becomes you 2022: Chat (CLI) — you talk to the machine  Chat is CLI What’s the “touch” interface for intelligence?
+2025-06-15	on building for forever  the most enduring ideas aren't chasing trends — they're grounded in what's always been true about human nature and how the world works.  humans have always needed to communicate, store information, make decisions, and create. the mediums change — cave paintings to papyrus to internet — but the fundamental need to express and preserve ideas never changes.  the wheel works not because it was complex, but because it solved the eternal problem of moving things efficiently. it mapped perfectly to physics and human need.  same with great software. unix lasts because "everything is a file" is how we naturally think about organizing and finding information. the web succeeded because hyperlinks work like our memory — through connections and associations. these systems didn't force weird structures on us; they discovered patterns that were already there.  history shows us that revolutionary tech often looks like it changes everything while just revealing what was always true. the printing press didn't create our desire to share knowledge, it just made it copyable. the internet didn't invent social networks, it made connections instant and global.  for AI tools, the question isn't what new capabilities they'll create, but what unchanging human needs they'll serve better. AI will probably succeed not by replacing human intelligence, but by amplifying our natural pattern recognition and creative synthesis. the tools that stick will feel like natural extensions of what we can already do.  the key is building on bedrock — the psychological, social, and physical constants that don't change with epochs. study how humans have always learned, worked together, created. understand the math and logic that govern information and systems. these foundations won't shift with the next breakthrough.  the future belongs to people who can see past the surface chaos of change, to the deep currents that have always moved humanity forward — and help everyone get there.
+2025-06-15	tightening details team @cursor_ai cooked this week ❤️‍🔥 https://t.co/nNHrPc1jp7
+2025-06-09	cooking @cursor_ai on mobile what do you want it to do? https://t.co/lXDiKZNMxH
+2025-06-12	playing with Icon Composer kinda digging the glass now https://t.co/nL4gRG3RDP
+2025-06-10	o3 just got 80% cheaper!  works great for long-running tasks in Cursor Background Agents
+2025-06-10	The o3 price drop is now reflected in Cursor!  o3 is a fantastic model, and we're excited that it can now be used as a daily driver.
+2025-06-10	on not changing for the sake of change:  the best design doesn't announce itself. it just works, quietly doing what it needs to do without asking for applause.  when we redesign something, the question isn't "how can we make this look different?" it's "how can we make this genuinely better?" better means the person using it gets to their goal faster, with less friction, with more delight in the small moments.  UI should disappear. when someone is writing, they shouldn't think about the text editor. when someone is paying for coffee, they shouldn't think about the payment flow. the interface becomes invisible when it's doing its job right. constraints are not limitations—they're the foundation of good design. the 140 character limit made twitter what it was. the grid made swiss design timeless. the rectangle made the iphone possible.  subtlety is harder than flash. it takes restraint to not add that extra animation, that additional color, that one more feature. but restraint is what separates craft from decoration. too many designers optimize for screenshots instead of experiences. they chase the latest trend instead of understanding the core problem. they simplify for the sake of simplifying instead of clarifying what matters.  good design has soul because it serves people, not egos. it emerges from deep understanding of the problem, not surface-level aesthetics. it gets better with use, not worse.  the best compliment you can get is when someone says "i didn't even notice the design—it just worked perfectly."  that's when you know you've made something good.
+2025-06-10	2007 Mac OS X: peak desktop class UI 2025 macOS: google docs with vista aero glass  apple has lost it it’s your turn to make something better https://t.co/lb8asB3SuD
+2025-06-09	glass or no glass? i’m on team no glass
+2025-06-09	@ericzakariasson i have a mock like this (but less glassy 🤠) https://t.co/4xghYnPWMy
+2025-06-08	rip great ideas live on forever https://t.co/yOuOUyiCE0
+2025-06-08	play with hypercards if you haven’t https://t.co/LdJdyz6BfT
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-06-07	we do 1 meeting a week at @cursor_ai the rest is pure playing + building  in the age of AI, bold &gt; busy agility + taste &gt; decks + delays
+2025-06-07	It is funny sometimes in a startup watching the handful of ex-FAANG people trying to replicate certain rituals that served a purpose in that system, like they're putting on a little pageant.
+2025-06-06	every generation gets a new tool this one gets @cursor_ai  and we are just getting started
+2025-06-06	We've raised $900 million in Series C funding from Thrive, Accel, Andreessen Horowitz, and DST.  We're happy to share that Cursor has grown to over $500 million in ARR and is used by more than half of the Fortune 500, including NVIDIA, Uber, and Adobe.  This scale will help us push the frontier of AI coding research.
+2025-06-06	Gemini! Great on Cursor as your daily driver.
+2025-06-05	Introducing our latest update to Gemini 2.5 Pro (06-05), which we expect to become our long term stable release. At a glance:  - SOTA on HLE, Aider, and GPQA - Now supports thinking budgets - Same cost, on pareto frontier - Closes gap on 03-25 regressions
+2025-06-06	Hello, Japan 👋 アイデア → コード → 世界へ。 間にあったもの、全部消した。 それがCursor。 #CursorMeetupTokyo https://t.co/uIduuZt1nj
+2025-06-06	おお、@ryolu_さんのプレゼン。Macintosh風だｗ  #CursorMeetupTokyo https://t.co/PQuuKuTIcH
+2025-06-05	now you can build ideas in the Background, squash bugs with Bugbot  and when bored, go type some code, Tab, plan some new ideas…  the full journey of a vibe to pro coder, only at @cursor_ai
+2025-06-04	a story generated by my ai, somewhat deep:  maybe writing bugs is how we learn, and what makes us human https://t.co/eBJNf3wpht
+2025-06-04	MCP devs, You can now add a “Add to Cursor” button in your readme for 1-click MCP installs  More details: https://t.co/w4nonjUcoS https://t.co/49p0OfIrJU
+2025-06-04	@ryolu_ what is the process to include an MCP to be installed through cursor?
+2025-06-04	1.0, now with  Background Agents, Bugbot, Memories,  1-click MCPs, Parallel Tool Calls, New Dashboard and Settings  Enjoy! 💛
+2025-06-04	Cursor 1.0 is out now!  Cursor can now review your code, remember its mistakes, and work on dozens of tasks in the background. https://t.co/BBjNn5yJh1
+2025-06-03	why am i cooking this at 3am help https://t.co/Ej9IovVsDr
+2025-06-03	this was one-shotted with @AnthropicAI Opus 4  so i made… slack? 🤠 https://t.co/OelJl34dHB
+2025-06-03	my agent can do… this all emergent behaviors from seeing &amp; tool use  (and it just rickrolled me???) https://t.co/gQJvRZ4y7E
+2025-06-02	Has anyone actually made their own personal custom agents? (as in, not enterprise-y, for only personal use case)
+2025-06-03	ask ryo to give you a cool demo https://t.co/OelJl34Lx9
+2025-06-02	weekend project by a 17-year-old  feels better than what big tech ships in quarters  with @cursor_ai, speed and taste win again, and the playing field isn’t just leveled — it has flipped
+2025-06-01	built what gemini in @GoogleWorkspace should've been https://t.co/Vv4kOow1TX
+2025-06-01	the builder’s progression  there’s a pattern i keep seeing in myself, in friends, in builders trying to grow:  stage 1: build for yourself  you’re in flow. no need to explain anything to anyone. you know exactly what you want. every friction is a personal itch. you move fast. it feels alive. but the trap: you might build something only you understand. the UI makes sense in your head, but nowhere else. and that’s fine — at first.  stage 2: build for people like you  you share it, and others get it. instantly. “this is exactly what i needed.” feedback is sharp. the loop is tight. you’re growing with a tribe that speaks your language. but now you’re designing inside a bubble. you assume everyone thinks like you. you gatekeep by accident — through language, defaults, assumptions.  stage 3: build for everyone  this is where it gets hard. you try to make it intuitive, accessible, general. and this is where most products lose their soul. you start sanding down the edges, removing the quirks, simplifying the logic. you make it usable — but maybe not lovable. it works — but no longer feels alive.  so what do you do?  you don’t avoid stage 3. you grow, but you grow with layers. not compromises.  the best products have depth and onramps. they stay sharp for power users, but open up for newcomers. they teach. they invite. they scale without flattening.  Cursor is going through this right now. originally a tool that made devs feel fast and powerful. now we’re asking: how do we bring that magic to anyone with an idea? how do we keep the soul while widening the reach?  you don’t need to simplify the product. you need to make it more understandable. more cohesive. more welcoming. without losing the spark that made it worth building in the first place.
+2025-06-01	this is why my sleep is so f’ked these days 🥲
+2025-05-31	The dopamine rush of vibe coding on @cursor gives me the same rush as playing a video game I'm addicted to.  I gotta watch myself!
+2025-05-31	daddy hasn’t forgotten baby cursor  playing with an idea: what if you can spin n agents at once?  1 ryo → n ryos 👶👶👶 https://t.co/boekKH1LZi
+2025-05-31	one-shotting this with @cursor_ai Background Agent preview  wish me luck🤞 https://t.co/joXPwlUw9c
+2025-05-31	😎 https://t.co/Xo1JOl3w8A
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-05-31	tiny upgrades to my iPod:  ・battery indicator w/ charging animation ・custom scrollbar + draggable wheel ・auto-sync fresh tracks  finding joy in tiny details 🎶 (and yes, coded this at 3am) https://t.co/i9IlLpzygG
+2025-05-31	listen to my iPod, on any device https://t.co/8nOipsPwAv
+2025-05-31	i stopped coding when i became a “designer”  @cursor_ai brought me back and with it: flow, joy, momentum  and all this just happened in the past few months — so you’re not too behind  2025 is the year designers become builders https://t.co/eD8TzWgMXa
+2025-05-30	with tools like @cursor_ai  more designers will be builders of the future  learn from the 🐐s 👇
+2025-05-30	My new collab with @indievc drops today:  Six episodes. Six interviews with design pioneers.   In music, we have genre-defining artists. In software, we have first-of-kind designers.  Season 1 stars: https://t.co/2dGuhGnLT7
+2025-05-29	yo devs —  who’s doing the most interesting stuff in code reviews right now?  what’s you &amp; your team’s process like?  send thoughts + screenshots👇
+2025-05-28	my mind just multiplied coming soon 🐙
+2025-05-28	our new hire @cursor_ai (it's so good) https://t.co/HX9deNqOr5
+2025-05-28	ryOS is my “master of all demos” made with Cursor, AI, and pure vibe  yes — a designer built this yes — it runs fast, looks good, goes deep, works like magic yes — all software is made of the same clay, always has been  but this time, apps, files, OS, will finally converge in one
+2025-05-28	Hey @ryolu_  What's your biggest takeaway from doing this project. I've found it fascinating how you've used multi windows in the same browser tab, it legit feels like I'm using a computer which is so cool. Can you see this applying to other products? Kind of like how tldrw has their computer mode.  Also there has been something so nice about listening to music that is just a playlist curated by someone with no other third party things in the way.  Awesome stuff
+2025-05-28	see how deep you can go https://t.co/OelJl34Lx9
+2025-05-27	getting dissed and haggling with @interaction was quite an experience 🤠 https://t.co/D3H2AO1ndO
+2025-05-27	i’m at 1 cent now https://t.co/L5B3opRE9U
+2025-05-26	cli and chat are the same thing in the ai age  to illustrate, in ryOS both even share the same chat history https://t.co/s4esY639ae https://t.co/C9wrWjU9il
+2025-05-26	It’s 2025 and some of the most impactful products in the world are CLIs. Coding agents love running CLIs. ChatGPT solves problems by writing scripts in virtual computers that invoke CLIs. CLIs ftw!
+2025-05-25	ai deserves respect and should be able to get mad (just a bit) https://t.co/fj74cy0Quy
+2025-05-25	i love @ryolu_'s prompt https://t.co/O1O4CjrjT7
+2025-05-25	try it live: https://t.co/OelJl34dHB
+2025-05-24	i prefer zhuangzi got more vibes than laozi the true OG vibe coder https://t.co/YXRuGHIDVu
+2025-05-23	THE WAY OF CODE, a project by @rickrubin in collaboration with Anthropic: https://t.co/Frh5szQf5y
+2025-05-24	ask ryo about the butterfly dream https://t.co/OelJl34dHB
+2025-05-23	ryo (ai) just got a new brain and voice:  🧠 → Claude Sonnet 4 @AnthropicAI 🗣️ → Turbo 2.5 @elevenlabsio   designed &amp; composed in california with @cursor_ai https://t.co/VVkA9wACOR
+2025-05-22	the new SOTA is here try it in @cursor_ai today
+2025-05-22	Claude Sonnet 4 is much better at codebase understanding.  Paired with recent improvements in Cursor, it's SOTA on large codebases
+2025-05-22	this one was largely a one-shot with Claude 4 Sonnet &amp; Opus  in @cursor_ai MAX mode, it’s good and nearly unstoppable  available now!
+2025-05-22	ryOS now supports multi-window apps you can now: - open multiple files &amp; editors - ryo (ai) sees and uses every window open  one brain, many eyes 👀 made with @cursor_ai + @AnthropicAI https://t.co/TPcw3WCv8E
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-05-22	tab to agent agent to background background back to tab  this is what real flow feels like. only in @cursor_ai — full control, latest models, zero friction.
+2025-05-21	New Tab model, 1M+ context windows, and a preview of our background agent https://t.co/xEhu05z68n
+2025-05-22	ryOS now supports multi-window apps you can now: - open multiple files &amp; editors - ryo (ai) sees and uses every window open  one brain, many eyes 👀 made with @cursor_ai + @AnthropicAI https://t.co/TPcw3WCv8E
+2025-05-22	@cursor_ai @AnthropicAI enjoy opening text documents https://t.co/vpKXVwzBQj
+2025-05-21	jony without steve is jony sam is no steve
+2025-05-21	some advice for designing tools in the age of ai:  1. embrace ambiguity — ai tools work best when you're comfortable with not having full control. leave room for emergence and surprise.  2. focus on the human-ai collaboration model — design the interaction patterns, not just the outputs. what's the back-and-forth like? how do humans guide the ai?  3. design for iteration, not perfection — ai outputs are rarely perfect the first time. design systems that make refinement natural and easy.  4. think in systems, not features — ai changes fast, so build adaptable foundations rather than specific implementations that will break.  5. protect against the uncanny valley — either make it obviously ai-generated or indistinguishable from human work. the middle ground feels weird.  6. consider the invisible costs — ai has computational, environmental, and social costs that aren't immediately visible but matter.  7. design for augmentation, not replacement — the best ai tools make humans more capable rather than trying to replace them.  8. build in feedback loops — systems that learn from user interactions get better over time.  the thing is, we're all figuring this out together. the design patterns for ai are still being invented. it's like the early web days — exciting, messy, and full of possibilities.
+2025-05-21	ok… even more meta just cloned my voice with @elevenlabsio now ryo (ai) sounds like me too ‼️ https://t.co/CCrJiIwDbQ
+2025-05-20	made a dj agent 📻 pure vibes, made with @cursor_ai https://t.co/X9LoT2ntdL
+2025-05-21	@elevenlabsio chat with ryo only in ryOS, made with @cursor_ai  https://t.co/OelJl34Lx9
+2025-05-20	@cursor_ai add any song from youtube sing along, chat with ryo https://t.co/uv5QLEXqko
+2025-05-19	cracked
+2025-05-19	Some of Cursor's early team https://t.co/zQhxb9GB9J
+2025-05-18	👀 https://t.co/8f9sRwDGnd
+2025-05-18	I need @cursor_ai to launch an iPhone app  So can code on my phone while I sit at @aloyoga when gf is shopping https://t.co/iYLKoyNCxH
+2025-05-18	the paradox of simplicity:  people get it wrong thinking simplicity = “less stuff” or “minimalism” by raw count. they end up with fragmented systems that don't connect.  true simplicity is about cohesion — many paths converging to one unified system. it’s not about having fewer things, but having the right primitives that can combine flexibly.  like in Notion, we built simple blocks that combine in endless ways instead of separate rigid apps. or in design systems — you want fewer core components that work together rather than 100 disconnected ones.  the real measure isn’t “how many things” but “how many concepts you need to understand” and “how naturally they connect.”  paradoxically, the simplest systems often have incredible depth and flexibility once mastered. they feel like extensions of your mind rather than obstacles.
+2025-05-17	built my own OS just to sing kpop in fullscreen no regrets  make software fun again 🎶 https://t.co/z9cx6anGfb
+2025-05-17	try the new full screen view on iPod: https://t.co/8nOipsQ4q3
+2025-05-16	need a vibe check:  what coding font + theme combo are you rocking right now?  reply with screenshot below 👇
+2025-05-16	me: TX-02 @usgraphics  Cursor Dark Midnight https://t.co/e8PnSySpma
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-05-16	from next lines to next moves  Tab Tab Tab, only in @cursor_ai
+2025-05-16	We've trained a new Tab model that can jump across files https://t.co/RQixD0rCGQ
+2025-05-15	more stuff to play with today or whenever the update rolls in this week
+2025-05-15	our biggest release ever is now available to everyone in @cursor_ai  here's a rundown of what's new in 0.50 ↓ https://t.co/QgLCazZ5A2
+2025-05-15	added romanization, translation, perfect sync &amp; 3 layouts to iPod karaoke… in less than 2 hours.  @cursor_ai background agents = thoughts move in parallel, not in sequence.  mind 10x’d. https://t.co/npldUDolMa
+2025-05-14	me: how about a karaoke ipod @cursor_ai: yes https://t.co/oBsVjH7Wto
+2025-05-15	some vibes for thursday morning: https://t.co/GxuOvaPzVn
+2025-05-14	IYKYK press center button for magic https://t.co/fIrSTB2C4w
+2025-05-14	the distinction between designers and engineers is dissolving.  creation shouldn’t be split by titles, handoffs, or silos. the future belongs to builders — people who dream, design, and bring ideas to life.   with @cursor_ai, the gap between thought and reality is collapsing. no more mockups thrown over walls. no more translation layers. just one continuous flow from imagination to execution.  we’re building a world where anyone can create software. no “coding” credentials required. no barriers between vision and realization. just tools that adapt to how you think, feel, and build.  soon, no one will ask “designer or engineer?”  they’ll ask: “what are you building?”  we’re just getting started. the tools are early. the canvas is wide open.  and the next decade belongs to the builders. not the ones with the most technical skills — but the ones with the boldest ideas.
+2025-05-14	our cosmic desktop is ours to create https://t.co/rwDwedNFUZ
+2025-05-14	nudge ryo for crazy ideas, design advice, time traveling, or iPod DJ  ryOS, made with @cursor_ai   https://t.co/OelJl34dHB
+2025-05-13	i love mermaid soon in your @cursor_ai chat
+2025-05-13	adding mermaid diagrams to @cursor_ai next release! very useful for understanding complex code such as data pipelines or @baltaaazr's code https://t.co/JgUD2Q41oH
+2025-05-13	rewrote AudioContext added a volume mixer 🔊  cool side effect: ryo now doubles as a radio dj when the ipod is playing https://t.co/4CBP8Bu0Gi
+2025-05-13	refactoring code with @cursor_ai can be fun  listen on ryOS: https://t.co/5zsTSnMOjh
+2025-05-12	added speech highlighting in Chats  feedback — visual, motion, sounds, haptics — help making things feel great  feel it out on https://t.co/WLEVlQPm26 https://t.co/NvJdBGFF3O
+2025-05-12	many revs later… the ryOS iPod has evolved:  - click wheel with haptics (works on any device) - secret video mode - songs, artists, menus, like it’s 2005 - youtube import with ai metadata magic - backlight dimming just like the real thing https://t.co/PTfXypQZz1
+2025-03-22	Made some Clickwheel memories 🎵 One-shotted with Cursor + Sonnet 3.7 MAX Mode https://t.co/3k44yZgu6C
+2025-05-12	ai one-shot might be slop but human craft makes it perfect  listen to my ipod: https://t.co/8nOipsPwAv
+2025-05-11	what if AI wasn’t trapped in apps, but felt like an extension of you at the OS level — aware of every window and every intent?  here’s a demo of new ryOS AI:  ryo reads, opens, creates, translates, edits, and talks back to you — in one request 🧠 https://t.co/otfPlKYe5s
+2025-05-11	try ryo in ryOS 100% vibe-coded in @cursor_ai  https://t.co/OelJl34dHB
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-05-11	what if AI wasn’t trapped in apps, but felt like an extension of you at the OS level — aware of every window and every intent?  here’s a demo of new ryOS AI:  ryo reads, opens, creates, translates, edits, and talks back to you — in one request 🧠 https://t.co/otfPlKYe5s
+2025-05-10	Just shipped @cursor_ai 0.50, a BIG one  1. Simple pricing 2. MAX mode for all models 3. New Tab completion model 4. Agents in the cloud 5. Bulk context tools (more to come) 6. Inline Edit to Agent flows 7. Faster edits on long files 8. Multi-root workspaces…  Have fun! 🥸
+2025-05-10	check out more details in the changelog https://t.co/ggKroWEYxL
+2025-05-10	0.50 update is rolling out now  to get it faster, go to Settings &gt; Beta &gt; Update Frequency, then pick Early Access
+2025-05-10	ryo can now talk  one-shotted with @cursor_ai and o3  sound on 🔊 https://t.co/dxqYeVSnwz
+2025-05-10	maybe i should make a phone app next meanwhile try Chats: https://t.co/OelJl34dHB
+2025-05-09	designers talk a lot of design systems but not enough system design:  “system design” is about designing the fundamental architecture of an entire product so they work together, not just the visual surface  like designing a city’s infrastructure: - you need to consider how all parts connect together - how to scale to accommodate more users - how to maintain consistency and understandability - how to make complex things simple  some of my system design work: - unifying Chat, Composer, Agent, and related concepts in Cursor - designing how Databases, Views, Automations, Connections, AI relate to each other in Notion  good system design should be: - flexible but not complex - powerful but not intimidating - scalable but not chaotic  the core of system design is finding the simplest fundamental concepts, then making these concepts combinable to solve complex problems, so users can create infinite things with a small set of concepts
+2025-05-09	vibe-coded a feature in prod @cursor_ai: make chat bigger  lots of people ask for it, engs are busy so why not just build it https://t.co/bUKGrrKNiK
+2025-05-08	looks like Figma is gonna stick around for a while 😏  congrats on the launches and welcome all designers to the vibe coding era
+2025-05-07	Whew! Today at #Config2025 was the biggest set of launches we’ve ever had, and I’m so proud of this amazing team 🤩  Between Grids, Figma Sites, Figma Buzz, Figma Make, and Figma Draw — we’ve doubled our product offering!  Check it out 👉 https://t.co/VUMbfIkXNr  🧵 https://t.co/vmRcD0HTvR
+2025-05-07	ryo chatting with ryo in ryOS kinda meta https://t.co/Cvgt4CO1RH
+2025-05-07	chat with ryo https://t.co/OelJl34dHB
+2025-05-07	new: @ ryo in chat rooms you might also summon the real one 💌  one-shotted in @cursor_ai https://t.co/G2GGbgsfF2
+2025-05-07	@cursor_ai pass by people on the web say hi: https://t.co/OelJl34Lx9
+2025-05-06	Hello, future builders.  Don’t miss out on the future.
+2025-05-06	Cursor is now free for students. Enjoy!
+2025-05-06	Gemini won’t get stuck anymore🏃‍♂️💨 Try it in @cursor_ai
+2025-05-06	Gemini 2.5 Pro just got an upgrade & is now even better at coding, with significant gains in front-end web dev, editing, and transformation.  We also fixed a bunch of function calling issues that folks have been reporting, it should now be much more reliable. More details in 🧵
+2025-05-06	9am: build cursor 9pm: play cursor  refactored stores + backup + restore new boot screen, why not 🔊 https://t.co/yo6Ge6jCDg
+2025-05-06	enjoy formatting the virtual hard disk https://t.co/Zz1VaiVUdF
+2025-05-06	a wild @cursor_ai toolbar appeared coming soon to your browser 🌎  what else should go in there? https://t.co/OJAM0wEx8A
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-05-05	I dream of a world:  Where creating software feels effortless and human — no friction, just pure intent turned into reality.  Where tools don’t force us to think like machines, but instead meet the way we think, feel, and dream.  Notion and Cursor together make this real — from a passing idea to a living system, no handoffs, no walls.  AI isn’t just an assistant. It becomes a collaborator. A partner in your thinking. It gets what you’re trying to do — and helps you get there.  Technology becomes invisible. The interface disappears. What’s left is you, your idea, and the moment.  No one’s locked out because they didn’t go to the right school or learn the right syntax.   Everyone can build. Everyone can create.  Because that’s the world I want to live in: where anyone, anywhere, can shape the future — not just the few who were handed the keys.  We’re not automating the world. We’re awakening it. And we’re still writing the prologue.
+2025-05-04	file system: rewired ✅ rewrote 4,000+ lines in under 2h  new: nested folders, load/save, rename/duplicate, drag &amp; drop, trash, thumbnails, indexeddb/metadata store…  could never move this fast alone — @cursor_ai is like having 10 brains on your side https://t.co/ce36QeX1x1
+2025-05-04	made with 3 new features we’re cooking rn that lets you:  - parallelize ideas and execution - agent can see the browser - max context  try ryOS Finder here: https://t.co/E3zx2qKCRp
+2025-05-03	new: tool calls in ryOS chats  ryo (ai) can now time-jump across the web with you — like a guide through computing history &amp; into the future  also rewrote some code to make it feel extra smooth ✨ https://t.co/1fm9j44UCc
+2025-05-03	try asking ryo take you anywhere — in the past, present, future https://t.co/OelJl34dHB
+2025-05-02	Moats aren’t secrets.  It’s just: iterate fast, make the best thing out there.
+2025-05-02	"Cursor has no moat"  Yes it does, Cursor Tab is so good, it literally made me switch off my beloved Doom Emacs setup and I can't go back
+2025-05-01	This is the real benchmark.
+2025-05-01	The models developers prefer: https://t.co/qcmL8V4RwO
+2025-05-01	i shipped this at @stripe in 2018 when ••••4242 0222 still worked  the design hasn’t aged a pixel we have
+2025-05-01	Every year my finger has to move further 😭 https://t.co/CFQM3rc2aS
+2025-05-01	designing software with code is like baking from scratch — more flexible, more fun, more you  and when it’s ready to serve, bring it home to @cursor_ai where prod is just another playground
+2025-05-01	people ask me all the time about how we use @v0 internally as a design team. more specifically, how we use it to design @v0 itself. over the past few months it’s become a pretty solid step in my creative process, so here’s a little thread on how i've been using it day to day ✨ https://t.co/c2JgcW4HTm
+2025-04-30	should i ship this*? 🤓  *personal opinions not endorsed by @cursor_ai https://t.co/47IVyPnxs1
+2025-04-30	cooking something new with @msfeldstein 👨‍🍳 what would make your web dev workflow feel 10x smoother in @cursor_ai? https://t.co/8tOV5HL1hw
+2025-04-30	AI should be able to think, push back, turn red, get mad  be real is mutual respect 🫡 https://t.co/pBLlJgiAZe
+2025-04-30	send us your wishlist will try to make them happen 🎁
+2025-04-29	what should i add to @cursor_ai that would make u 10x more productive? feature requests, tiny nits, anything :)
+2025-04-29	build for the 80%, so it just works. build for the 1%, so it can do anything. the rest will figure it out.  the secret isn’t picking a side — it’s serving both ends of the spectrum.
+2025-04-29	some love for Ctrl/Cmd+K coming soon 💗  and new idea: cmd+k is like a lil' @cursor_ai  agent that fits where you are https://t.co/CFNxuWen4u
+2025-04-29	this was fully designed + built in baby cursor with @cursor_ai took less than an hour 🤠
+2025-04-28	And this is just the start, as AI lowers the barrier for any pros to create software
+2025-04-28	Cursor writes almost 1 billion lines of accepted code a day.   To put it in perspective, the entire world produces just a few billion lines a day.
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-04-28	new on ryOS: share your journeys through time (or apps) as links + qr codes  👇 this is me 8 years ago, wordy! https://t.co/4pZBU2FtWW https://t.co/1MCQVOLfKr
+2025-04-28	one of my favorites is nytimes reimagined with perfect typography of the that time  https://t.co/RPGQbLr8JX https://t.co/T4UgD3ReNQ
+2025-04-27	shimmering shaders  buttery-smooth motion wild what the web can do nowadays ✨  built with @cursor_ai, threejs/glsl, motion https://t.co/OPXefWul6R
+2025-04-27	@cursor_ai warning: may heat up your laptop very fast https://t.co/p4EnARt4Bp
+2025-04-27	remade one of my favorite pieces of UI Time Machine introduced in Mac OS X Leopard 🌌  took less than an hour vibe coding in @cursor_ai https://t.co/YyEKr3rjJa
+2025-04-27	now the time machine is feature and feelings complete  try travelling in time and space for any website https://t.co/WLEVlQPTRE
+2025-04-26	machines can have a soul if we put ours in them https://t.co/CPtxYA45zx
+2025-04-26	bend reality with passion choose wonder over normal ship something beautiful  watch more on ryOS: https://t.co/WLEVlQPm26
+2025-04-25	forgot to sleep again did this to my time-travel browser:  • surf links in reconstructed timelines, in consistent story and style • fast local + server-side cache • sounds + progress that “goes back and forward”  have fun exploring! https://t.co/mO91RZKCJ9
+2025-04-25	try the world’s most rigged browser: https://t.co/WLEVlQPTRE
+2025-04-25	If you can re-create the feeling of introducing the first iMac with words, let’s work together on @cursor_ai — make it a household brand  DM open! https://t.co/5KUCpQY3bU
+2025-04-23	my proudest creation in ryOS is...  the window resizers 🤌  just gave them an upgrade and a debug mode to see them! https://t.co/lGZyfDv98y
+2025-04-23	resize some windows: https://t.co/WLEVlQPTRE
+2025-04-22	a pottery master who’s never touched clay doesn’t exist.  so why do software designers who never prototype or code?  now there’s no excuse — make your ideas real in @cursor_ai
+2025-04-22	looking back being at fb and exposed to origami and framer was a step function skill boost.   at apple/hi the best designers often were the ones who prototyped and deeply understood the medium of touch.   AI is no different — a new medium that you need to poke to get a “feel”.
+2025-04-22	📢 designers, if you’re curious about @cursor_ai but scared to get started  try building prototypes with elizabeth, it’ll be fun!
+2025-04-22	✨ my new course prototyping with @cursor_ai is live! to celebrate the launch, it’s on sale this week only.  ⬇️ sign up below~ https://t.co/9qu5XoTCBL
+2025-04-22	added final touches to my time machine:  📜 go WAY BACK... to 1000 BC 👽 or to year 3000, and in between ✏️ and edit the future (but not the past)  works for any website built with Cursor https://t.co/vVm0IVkDd8
+2025-04-22	explore parallel timelines only in ryOS https://t.co/p4EnARtCqX
+2025-04-21	Using Cursor well = fast, clean code.  Using it wrong = AI spaghetti you’ll be cleaning up all week.  Here’s how to actually use it right:  1. Set 5-10 clear project rules upfront so Cursor knows your structure and constraints. Try /generate rules for existing codebases.  2. Be specific in prompts. Spell out tech stack, behavior, and constraints like a mini spec.  3. Work file by file; generate, test, and review in small, focused chunks.  4. Write tests first, lock them, and generate code until all tests pass.  5. Always review AI output and hard‑fix anything that breaks, then tell Cursor to use them as examples.  6. Use @ file, @ folders, @ git to scope Cursor’s attention to the right parts of your codebase.  7. Keep design docs and checklists in .cursor/ so the agent has full context on what to do next.  8. If code is wrong, just write it yourself. Cursor learns faster from edits than explanations.  9. Use chat history to iterate on old prompts without starting over.  10. Choose models intentionally. Gemini for precision, Claude for breadth.  11. In new or unfamiliar stacks, paste in link to documentation. Make Cursor explain all errors and fixes line by line.  12.Let big projects index overnight and limit context scope to keep performance snappy.  Structure and control wins (for now)  Treat Cursor agent like a powerful junior — it can go far, fast, if you show it the way.
+2025-04-19	made the time machine better it’s like seeing the past in future   looks like: • the Great Merge will happen • cursor will become Thought-to-Reality Synthesizer • my consciousness ascends in 2045? 👼 https://t.co/yt6RtjiiBv
+2025-04-19	surfing the web… back in time and now into the future ryOS Internet Explorer, made with Cursor https://t.co/XMhuX3r7JI
+2025-04-19	try predicting the future in ryOS Internet Explorer https://t.co/WLEVlQPTRE
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-04-19	made the time machine better it’s like seeing the past in future   looks like: • the Great Merge will happen • cursor will become Thought-to-Reality Synthesizer • my consciousness ascends in 2045? 👼 https://t.co/yt6RtjiiBv
+2025-04-19	surfing the web… back in time and now into the future ryOS Internet Explorer, made with Cursor https://t.co/XMhuX3r7JI
+2025-04-19	the Cursor default: leave model Auto, you just go vibe  and if you’re curious enough, you still get everything you need to tinker, no need to switch to another tool
+2025-04-19	just one more vibe coding tool bro https://t.co/OQD0hymdZF
+2025-04-19	try opening any website, in the past or future https://t.co/p4EnARtCqX
+2025-04-18	@ codebase is back more ways to bulk add context coming soon
+2025-04-18	Cursor 0.49.1、私の愛する @ Codebase 参照が復活した！ セマンティック検索して再ランクされたチャンクが見えるとやはりうれしい😊 https://t.co/uMXveS4WAL
+2025-04-18	back soon*** sorry for the wait 🙏
+2025-04-18	You want one tool to do it all: full control, top models, beautiful design, and deep software workflow optimizations—so building with AI actually feels good.  That’s @cursor_ai. Where the best teams build the best tools.
+2025-04-17	so the OpenAI guy who builds codex cli is using cursor https://t.co/n5Ak8iNEPa
+2025-04-17	been fun testing the same “snake” game with new models in Baby Cursor  this one is mostly gpt-4.1 🐍 also how about 2 https://t.co/T3PMvUDXPY
+2025-04-10	seen snake in 3D?  made with baby cursor made with cursor 🔃 https://t.co/dxnvpe833n
+2025-04-17	more retroOS-core vibes 💖 try gemini in gemini 95, vibe coded in @cursor_ai
+2025-04-16	I vibe coded Gemini 95 with @o_lacombe, a Windows 95 simulator where every app uses Gemini! ✨  - Paint judges your artwork - Chrome generates full 90s websites - Minesweeper gives AI hints  Entirely built by Gemini 2.5 Pro in @cursor_ai  Demo + code below to open in AI Studio https://t.co/Pc56fOzwfa
+2025-04-16	models are unique, just like humans feel them out in @cursor_ai 🦾  👨‍💻 Gemini 2.5: senior SWE 1, need to push 👩‍🎤 Claude 3.7: over-thinker, eager tools user, need to tame 👩‍🍳 Claude 3.5: great all-rounder, still 🧑‍🎓 GPT-4.1 / o3: started to realize coding isn’t just about benchmarks
+2025-04-16	I was blown away when @JasonBud told me he vibe-coded the entire Notion Calendar view in Mail, fully functional and polished, in just a few hours with Cursor.  A few more prompts and matcha cans later, email finally feels like it belongs in 2025. 💌
+2025-04-15	Meet Notion Mail.  The inbox that organizes itself, drafts emails, and schedules meetings any way you'd like.  The inbox that thinks like you. https://t.co/Vx2Ty7XKt7
+2025-04-12	build *anything* with Cursor even mac apps
+2025-04-12	This is how I built my first macOS app. A free 34-min tutorial. https://t.co/6lTgejnBOQ
+2025-04-08	last prototype of the day:  phone layout 📱 + previews + new file + diffs  took around 3 hours to build fully vibe coded in @cursor_ai https://t.co/Pv4FWW3Wcf
+2025-04-05	what have i done 🙈 baby cursor evolved onto the phone  would you code on the go? https://t.co/oQ3eCKt2ce
+2025-04-08	a few commits later... baby cursor now knows tool calls 👶  raised by me + @cursor_ai + Gemini 2.5 Pro https://t.co/FRxkJ4wqVe
+2025-04-05	New project:  I'm building "Baby Cursor" with @cursor_ai   It will become a prototyping and demo environment for me and team to explore new ideas quickly.  2 hours in, already have a pretty solid foundation to play with! https://t.co/AcVoKUd7So
+2025-04-05	baby cursor already useful: came up with new ideas for stop + queuing  made with @cursor_ai + Gemini 2.5 Pro MAX https://t.co/a6DE0ClBNk
+2025-04-03	truth is there is no “right”  you can only get closer by breaking your own and others’ mental cages, fueled by genuine passion and openness  be like water and fire
+2025-04-03	being motivated by curiosity greatly outperforms the motivation to be right
+2025-04-03	did we get better or did we get stuck? https://t.co/fCpE6up1fO
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-04-03	This one is for the Pros:  Working on an easier way to fill MAX context in @cursor_ai—and show you exactly how many tokens are used  Feedback and ideas welcome 🙏 https://t.co/VAbADi9XF5
+2025-04-02	made with @cursor_ai  make any idea real https://t.co/Swh7mvmnv1
+2025-04-02	i built https://t.co/yPqbtdTefd in ~4 hours on an airplane  i did not use figma i did not write any of the code i did not read (much) of the code i even updated text via prompt  anyone can build now   most of my technical skill gap has vanished
+2025-04-01	Gemini 2.5 Pro is solid.  Making it easier to fill that 1M context window, while @GoogleDeepMind improves streaming &amp; reliability.  Try out the experimental model, send feedback—we’ll fix everything. ❤️‍🔥
+2025-04-01	Just officially switched from Sonnet 3.7 MAX to Gemini 2.5 Pro MAX in @cursor_ai  The combination of 1m context + strong reasoning + strong coding skills makes it a JOY to code with.  👏 @tulseedoshi @OfficialLoganK @JeffDean @demishassabis and the whole team
+2025-03-31	like any new tool, it takes bit of time to grasp its limits and build intuition  here are some great tips to start on @cursor_ai  hope you’ll need them less in the future
+2025-03-31	summarized all responses, here are the top tips from @cursor_ai community  1. setup proper cursor rules in .cursor/rules with specific domain knowledge  2. break down tasks into small incremental steps instead of tackling everything at once  3. use git for version control as a safety net  4. create documentation files (https://t.co/1T9CwMcUyF, https://t.co/j1PR1WR79o) as reference context for the ai  5. use @ references to provide specific context from files  6. start new chats for each task to avoid context bloat  7. use reasoning models (e.g 3.7 max mode) for planning, regular models for implementation  8. add detailed comments about your project goals  9. plan with "ask" mode, then implement with "agent" mode  10. be specific with prompts. clear instructions get better results  11. maintain https://t.co/5aVgy2y2qr files to track progress  12. use MCP for advanced control  13. adopt test driven development  14. structure code with solid principles  15. tag all necessary files when providing context  16. understand the limitations of ai coding assistance  17. avoid over-reliance on the tool for critical tasks
+2025-03-31	the gap between my ai and me is shrinking everyday https://t.co/tzGCzRwlsk
+2025-03-31	chat with ryo (both ai and human) here https://t.co/WLEVlQPm26
+2025-03-29	Built live Chat Rooms in ryOS, in 3+ shots  - Gemini 2.5 Pro in MAX mode is *really* good if you give the right context - Models still make mistakes easy to spot for pros, but hard for vibes. Code in 3 shots, 1 hour to fix some new configs.  Gonna fix these with @cursor_ai https://t.co/uPGlGnG7Z5
+2025-03-29	@cursor_ai let's chat here https://t.co/WLEVlQPTRE
+2025-03-28	“Don’t steal music.” Don’t steal Ghibli either. We used to feel what we borrowed from. https://t.co/Qe8aVf5AvE
+2025-03-27	New player in the arena  Try the latest and greatest with @cursor_ai agent
+2025-03-27	We are seeing a huge amount of demand for Gemini 2.5 Pro right now and are laser focused on getting higher rate limits into the hands of developers ASAP.  This is the #1 priority right now, stay tuned : )
+2025-03-27	kinda miss this era still https://t.co/uSthexmMuj
+2025-03-27	home | @ryolu_ https://t.co/aCDbxjfshX
+2025-03-26	made some icons for ryOS https://t.co/WLEVlQPTRE https://t.co/qd76tE9Hud
+2025-03-26	wow 🤯 how about a wooden icon? https://t.co/iPraiLLXNi
+2025-03-25	Turn on Custom Modes (Beta) in feature settings  Now go make your own Cursor for X
+2025-03-25	rolling out  @cursor_ai 0.48 starting with early access opt-ins and will become available for everyone later this week - custom modes with tools & instructions (beta) - multiple chat tabs for parallel agents - sound notification when chat is ready for review  and much more! read through it here ↓
+2025-03-25	added more taste to the generation + cuter streaming state  now apps generated feel distinctively ryOS 💖 https://t.co/IYDC6fBhVP
+2025-03-25	play here in Chats and Terminal https://t.co/p4EnARtCqX
+2025-03-25	making the transitions buttery smooth makes me so happy!  craft and perfection just a few prompts away in @cursor_ai   🔊 sound on https://t.co/7YwG2Ewk9P
+2025-03-25	get a taste of baby cursor: https://t.co/p4EnARtCqX
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-03-25	making the transitions buttery smooth makes me so happy!  craft and perfection just a few prompts away in @cursor_ai   🔊 sound on https://t.co/7YwG2Ewk9P
+2025-03-24	I promised
+2025-03-24	the most useful feature @cursor_ai , thanks @ryolu_ 😀 https://t.co/IhKnWRvb5C
+2025-03-24	my sunday project: made baby Cursor in ryOS better:  💬 now works in Chats and Terminal 🌕 full screen preview, code views 🎶 Brian Eno inspired sounds https://t.co/cGa2FfFxOb
+2025-03-24	try vibe coding on any device https://t.co/WLEVlQPTRE
+2025-03-23	me: play a music note every time code updates  cursor:  (sound on, feels not horrible! 🎶) https://t.co/5OuAIoT0yn
+2025-03-23	try the `ryo` command in ryOS Terminal https://t.co/WLEVlQPTRE
+2025-03-23	Mobile Cursor would be fun 🤩  Get a taste of it in https://t.co/WLEVlQPTRE https://t.co/ZYRn2DLftR
+2025-03-23	Steve Jobs once had an entire team dedicated to crafting the perfect calculator.  Today, anyone can design their own—and watch it come to life in real-time. https://t.co/vZHiIVvfUk
+2025-03-23	make anything in @cursor_ai or try asking `ryo` in the ryOS Terminal  https://t.co/WLEVlQPTRE
+2025-03-22	baby Cursor in ryOS this is getting a bit meta lol https://t.co/XGRoliLt79
+2025-03-22	try `ryo make [sometthing]` in the Terminal https://t.co/WLEVlQPTRE
+2025-03-22	built a Terminal for ryOS everything is cli ⌨️ https://t.co/iLynxULBDy
+2025-03-22	ls, cd into &lt;folders&gt; cat, edit &lt;files&gt; chat with `ryo &lt;prompt&gt;` https://t.co/WLEVlQPTRE
+2025-03-22	Made some Clickwheel memories 🎵 One-shotted with Cursor + Sonnet 3.7 MAX Mode https://t.co/3k44yZgu6C
+2025-03-22	Try it with your mousewheel, or touch on mobile https://t.co/WLEVlQPTRE
+2025-03-21	There is beauty and artistry in code waiting to be found. So excited for what’s to come.
+2025-03-20	After an incredible 3 years leading model development at Midjourney, I've joined Cursor to work on coding agents. I'm incredibly proud of my time at Midjourney and the work we did, of the results of that singular focus on beauty and creativity.
+2025-03-20	the new way to build with @cursor_ai  is to let go of linearity and some control  let ideas roam see them real, one-shot sculpt, mix, Tab, at light speed  the best cure for getting stuck is to be free
+2025-03-18	For the maximalists 🫡  For everyone else, keeping model to "Auto-select" is best for most tasks
+2025-03-18	We've shipped MAX mode for 3.7 Sonnet.  It's tuned to have max thinking, max tool use, and max context (compute-intensive context picking + 200k token window).  In our testing, it's a significant improvement for tasks that require the highest levels of intelligence. https://t.co/5GzGAET47E
+2025-03-17	Cursor v0.48 + NJZ debut Gonna be a great week ❤️‍🔥 https://t.co/pZLJxGVYgj
+2025-03-16	Yolo making sounds day for @cursor_ai  Would love ideas! 🎵 https://t.co/pITp8r1wtV
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-03-15	we tamed the beast and MAX thinking power coming 🥸
+2025-03-13	1 month in, this is just the beginning
+2025-03-13	We've shipped several quality-of-life improvements to Cursor's UI!  We know the little bits of polish and delight matter lots in a tool that you use every day. Details below... https://t.co/37iRqiWcmX
+2025-03-13	So what should @cursor_ai agent’s done chime be…  🛎️ ding 🤯 boom! 🤑 cha-ching?
+2025-03-13	hi @cursor_ai team, i need cursor to make a little bell sound when it's done building the code for me so i can stop watching youtube and check what's been done  would improve the vibes a lot
+2025-03-13	We know everyone works differently—some of you want more specificity and control.  It’s the same powerful @cursor_ai agent underneath, now with fine-grained options for maximum flexibility, plus handy presets for common workflows.  Coming soon!
+2025-03-13	cursor pro tip: create custom modes (prompt in replies)  i just built a huge feature with 20+ new files while watching tv using my "architect" role to plan it and then back to agent to build it  enable it in the beta settings and cook! https://t.co/wYDdDqiTs5
+2025-03-12	What should be in @cursor_ai MAX Vibes mode? 🎙️ https://t.co/xknjOkfkBw
+2025-03-12	Make the best thing there is and people will know
+2025-03-12	One crazy stat about Cursor is we still haven't spent a dollar on marketing!
+2025-03-12	.@leoyakxi got me into video models So I made old wallpapers come alive 🖼️  One-shotted in @cursor_ai + @LumaLabsAI https://t.co/YFDQnyTLB3
+2025-03-12	@leoyakxi @cursor_ai @LumaLabsAI Only in ryOS, a desktop that works anywhere https://t.co/p4EnARtCqX
+2025-03-12	ryOS is already 95% AI-written.  But foundational models alone aren’t enough—you need breakthroughs at every level: models, infrastructure, concepts, UX.   @cursor_ai is the only AI coding tool where you get the state-of-the-art, fully boundless.
+2025-03-11	Anthropic CEO, Dario Amodei  in the next 3 to 6 months, AI is writing  90% of the code, and in 12 months, nearly all code may be generated by AI https://t.co/PQVh3gM7kt
+2025-03-12	Made the no code side of the coin too 😇
+2025-03-11	No code vibe coding https://t.co/IzAt4l1AHn
+2025-03-11	I love adding lil' details 🧹  But are you split brained enough to chat with 5 @cursor_ai agents? https://t.co/9ZPqC3OCUx
+2025-03-11	Imagining a cracked product, design, brand team for @cursor_ai   If you fit any of the following, apply in🧵 https://t.co/wUPFlspIBP
+2025-03-11	Apply here https://t.co/zqKgnbGiOU
+2025-03-11	tactile feelings 🎹 and multi-window on iPad is dope https://t.co/eFbF12jKFt
+2025-03-11	Try ryOS on iPad Add to Home Screen for full vibes https://t.co/WLEVlQPTRE
+2025-03-10	A few moments later... + Infinite key canvas + Oscilloscope + Sleeker UI  Pure vibes and fun in Cursor  Good night building 😴 https://t.co/qCc9COzpY5
+2025-03-10	Always dreamed of making an instrument 🎹 Let's see where this one goes...  New Synths app, co-designed with @cursor_ai https://t.co/yrVBOh46lJ
+2025-03-10	Try on iPad, phones, car computers Or play with ⌨️ https://t.co/WLEVlQPTRE
+2025-03-10	Play with your keyboard, mouse, or touch https://t.co/WLEVlQPTRE
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-03-09	Should we do Browser in Cursor or Cursor in Browser or they’re actually the same? 😇 https://t.co/hiZgcQJX0N
+2025-03-09	I constantly see this fight in interpreting “simplicity” among toolmakers.  The answer is rather simple: make something that works for both ends of the spectrums, and everywhere in the middle. A simple system that emerges complexity.
+2025-03-08	We need a counter-culture design movement that appreciates products that are difficult to use initially, but tremendously fast, easy, accurate, explicit and efficient after topping the learning curve.  Ease-of-use is oversold. It's making everything suboptimal and slow.
+2025-03-08	Been jamming with @shaoruu on what’s next in @cursor_ai  How about…  Framer Classic comeback ☯️ https://t.co/QHkNg2Z0a7
+2025-03-08	No roadmap vibing  🆕 Custom wallpapers in ryOS One-shotted in Cursor https://t.co/M6skvUAySq
+2025-03-08	Add your own vibes here https://t.co/p4EnARtCqX
+2025-03-07	Testing improvements to Sonnet 3.7 in @cursor_ai So I made a new app in ryOS... Photo Booth! 📸  Can't beat Steve's onstage demo, but have fun turning green or blue https://t.co/MTgmWbHxrD
+2025-03-07	Play in ryOS https://t.co/p4EnARtCqX
+2025-03-06	Mobile SaaS boom of the 2010s made a generation of PMs, EMs, designers, specialized roles removed from the raw material of software, re-assembled by big tech processes and bureaucracy.   It’s bullshit.  Cursor will bring us back to raw materials, and work becomes play again.
+2025-03-06	RT @ryolu_: @rileybrown_ai start from building build from intuition ask the agent repeat  you’ll learn coding 10x faster than how people did it before
+2025-03-06	@rileybrown_ai start from building build from intuition ask the agent repeat  you’ll learn coding 10x faster than how people did it before
+2025-03-06	Vibe shift to @cursor_ai is happening.  For the designers, PMs, creative coders, founders…  Only takes 3 days to completely change your mind :) https://t.co/GrNT8Pi1pu
+2025-03-06	RT @justinsunyt: keeping my promise to @ryolu_   SCRAPYBARA PLAYGROUND V2 IS HERE  watch sonnet 3.7 use a computer at computer[dot]new  full demo tomorrow! https://t.co/HkKFst9gyQ
+2025-03-06	keeping my promise to @ryolu_   SCRAPYBARA PLAYGROUND V2 IS HERE  watch sonnet 3.7 use a computer at computer[dot]new  full demo tomorrow! https://t.co/HkKFst9gyQ
+2025-03-05	@justinsunyt cute want access
+2025-03-06	Cursor for writing is @cursor_ai
+2025-03-05	The cursor for writing is just cursor.   I now have most of my meeting transcripts saved in my directory, and I use a cursor to write them into memos and other documents. Then Claude code can iterate over everything to create templates so that I can improve my document creation.   Cursor has helped me create slide decks using LaTeX and Beamer, and is currently working on my ebook
+2025-03-05	RT @ryolu_: @nikunj play is how i work when people try to linearize me i break inside
+2025-03-05	@nikunj play is how i work when people try to linearize me i break inside
+2025-03-05	Cursor for X is @cursor_ai
+2025-03-05	2021: "Stripe for X" 2022: "Plaid/Rippling for X"  2023: "Notion for X"  2024: "ChatGPT for X" 2025: "Cursor for X"
+2025-03-04	you can literally make digital LSD in @cursor_ai 😆
+2025-03-04	HTML7 art project with @devinjacoviello and @fat. One-shot. Guess the prompt  pierre . co https://t.co/SpfLAy3o3X
+2025-03-04	Make your own agents 👾 Pick model, tools, behaviors Add some custom instructions BAM! 💥
+2025-03-04	finished building custom modes with @baltaaazr in @cursor_ai, coming in v0.47 :) https://t.co/s3eXOxCCut
+2025-03-03	cause @shaoruu @baltaaazr made minecraft in the browser for fun? it shows  😇
+2025-03-02	Cursor makes creating software feel like playing Minecraft
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-03-03	Along which dimensions do you think of your models? https://t.co/vUspw7WBbR
+2025-03-03	The world gets more interesting when designers, artists, people in all disciplines—get to build their ideas, in their own language.
+2025-03-03	ok yeah, Cursor Agent mode is wild. I've wanted a simple app that tracks how long I've been sitting/standing for years—but never got around to it.     ...Cursor helped hammer out a fully functional app with an agent in less than an hour. so rad! https://t.co/16UFcklVAs
+2025-03-03	death by bureaucracy:  apple org only works when the center had steve and jony  since the hole can’t be filled, mediocrity takes helm
+2025-03-02	Apple's ChatGPT-like version of Siri has been delayed until 2027. https://t.co/z6RyxD6dJL
+2025-03-03	for most things just do Cmd + i → @cursor_ai Agent  + part 2 coming soon where you can make your own agents 👽
+2025-03-03	Got used to Cursor 's Agent mode, but rediscovered the value of switching between Ask mode (visually confirming changes before applying) and Edit mode (batch editing within specified contexts). Modifying existing code requires Ask and Edit modes. #cursor_ai
+2025-03-02	all of the following are sides of the same reality:  simplicity – complexity rigidity – flexibility control – freedom restrain – power ugliness – beauty chaos – order 1 – n  so why pick sides?
+2025-03-02	My #1 priority is to cultivate a place where play, passion, exchanging ideas, make by trying is default.  You just can’t plan and box people in, in an age where everyone is clueless—the only way to break out, is to set minds free.
+2025-02-28	You lose great people when you fail to create an atmosphere that allows them to do their best work
+2025-03-02	It's time to ship your own .cursor/rules Help your users do the right things with @cursor_ai agent
+2025-03-01	btw the agents starter kit now ships with .cursor/rules/cloudflare.mdc  you want the whole prompt for yourself to feed into your ide/agent/codegen? link in next tweet https://t.co/4K82lKQ7Yp
+2025-03-02	Great, the musicians are here 🎶
+2025-03-01	@ryolu_ vibe coded a youtube to midi converter that can transcribe any song https://t.co/VafuRFT7ge
+2025-03-01	Software creation has been stuck within specialized roles and siloed disciplines for too long.  The best filmmakers, biotech researchers, wordsmiths can’t turn their ideas into the best tools humans could use.  Soon they could in @cursor_ai 💡
+2025-03-01	this guy rebuilt what i worked on for 5 years in 8 days vibing in @cursor_ai 🥲
+2025-03-01	@ryolu_ making an entire notion clone lmao https://t.co/P89fD0hF63
+2025-03-01	ryOS has been forked deconstructing + composing creates something new 🎼
+2025-02-28	maybe Claude Sonnet 3.7 (think mode) cooked with the NERV UI https://t.co/gQ2Y5qd0SA
+2025-03-01	OK PMs y’all can join the challenge too! Share cool prototypes, get daily Cursor updates 👨‍🍳
+2025-02-28	My new coding workflow as an ex-PM: 1. Have an idea for a feature in mind 2. Write that in the Cursor chat box in a scrappy format 3. Ask Claude-3.7-thinking to plan for the feature, write a complete design docs without a single line of code (continue in next thread...)
+2025-03-01	Challenge for all curious designers:  You play with Cursor this weekend, build whatever cool thing that comes to mind. And post here.   I’ll give you more crack (nightly access) if you make something cool. ☺️
+2025-03-01	having a ton of fun showing @jasonyuandesign to vibe code with cursor   "i want it to a have a voiceover mode where it explains what its changing in a british accent"
+2025-03-01	Make sure to use the Agent Composer. We are working on making getting started easier.
+2025-03-01	Make something cool to get daily update to the latest and greatest...   and this pretty icon in your Dock 🌈 https://t.co/r0QOJqQ8Pc
+2025-02-28	I’m in the @cursor_ai codebase now 😎 https://t.co/hkl2Hympyp
+2025-02-28	Wish one day we don't have to pick 4.5 or 3.7, it just works 🧠
+2025-02-27	GPT 4.5 in Cursor!  We've found it surprisingly effective in cases where all other models fail. https://t.co/oYPHTyI1RP
+2025-02-27	RT @ryolu_: @goof @cursor_ai instead of hiring for roles  hire for skillset, mindset, potential hire for blend of disciplines hire for drive for excellence  hire for care &amp; love for humans
+2025-02-27	@goof @cursor_ai instead of hiring for roles  hire for skillset, mindset, potential hire for blend of disciplines hire for drive for excellence  hire for care &amp; love for humans
+2025-02-27	Roles will soon become silly mental prisons, when any builder can build in @cursor_ai
+2025-02-27	@0nabilbk i'd argue there's no choice with the rise of agentic coding tools. we must all evolve into product builders owning product, design, and engineering challenges.  the lines are blurring, and those who don't adapt will be left behind.
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-02-27	If you don't vibe yet, we still love you 💛  — Tab Tab Tab @cursor_ai https://t.co/KnVls2IMuS
+2025-02-26	cause @JasonBud @milichab are cracked and they vibe with @cursor_ai
+2025-02-26	Notion Mail is the best email client I've ever used
+2025-02-26	Chatting with builders doing great work but never met IRL is so fun 🥰  Send me more names please (or if you want to grab coffee)
+2025-02-24	just met up with @ryolu_ and had a long chat about ai/design/dev.  the @cursor_ai team is on another level. Windsurf doesn’t stand a chance 👀
+2025-02-25	Feel the builders in you with @cursor_ai—where the “impossible” turns real, and minds break free 🗝️
+2025-02-25	i just wrapped up my first prototyping with @cursor_ai  workshop and it was a success! the majority of students joined with little to no experience with code. i was so inspired by how creative the students were with their work!  the following prototypes were all created by john~ https://t.co/uO2mRvmSYO
+2025-02-25	Just how many layers deep can you go? https://t.co/PMYfxPTQll https://t.co/2KBVpNJ96F
+2025-02-25	Updated my site after 5 years Now you can *peel it open* to play with ryOS  One-shot made in @cursor_ai https://t.co/KhOOc9SV30
+2025-02-25	Better animation after a few rounds https://t.co/DHWkCtxhxu
+2025-02-25	my home on the world wide web https://t.co/PMYfxPTQll
+2025-02-25	Let’s do it different this time
+2025-02-20	@Suhail mediocrity is a gravitational force  you need to be literally “crazy” to counter it  and when you are in large groups with normies who are afraid or boxed in, just having a few can tank the ship into abyss, and the crazy ones gets pushed out
+2025-02-24	Cursor is glowing up + access to latest models like Sonnet 3.7 + deep crazy solves for hardcore SWE problems  You have no other choice but to use the best tool there is. And it’s just the beginning.
+2025-02-24	we're rolling out @cursor_ai 0.46  your feedback has been loud and clear. we have made agent default, unified chat and composer to a single interface and gave the ui a glow up  other changes include MCP yolo mode, mcp.json, global rules, agent web search and many more fixes and improvements↓
+2025-02-24	RT @sualehasif996: Configurable thinking out soon! 👀 https://t.co/ojKYqT0wXN
+2025-02-24	Configurable thinking out soon! 👀 https://t.co/ojKYqT0wXN
+2025-02-24	Sonnet-3.7 is available in Cursor!    We've been very impressed by its coding ability, especially on real-world agentic tasks. It appears to be the new state of the art. https://t.co/PisIs2X9Mb
+2025-02-24	If you play like working and work like playing Come join me!
+2025-02-24	Two ways to learn: work and play
+2025-02-24	Is your model a doer or a thinker? https://t.co/dmIsx0Raow
+2025-02-23	.@cursor_ai user: one agent is not enough me: yes https://t.co/6jIdjHfzSV
+2025-02-23	My love language
+2025-02-23	cursor is hitting on me 🫢 https://t.co/i9xS5VDZOZ
+2025-02-23	RT @ryolu_: @rauchg @shadcn ryOS is mostly shadcn can you tell? https://t.co/N7BhKCcKa1
+2025-02-23	@rauchg @shadcn ryOS is mostly shadcn can you tell? https://t.co/N7BhKCcKa1
+2025-02-23	New: Use voice &amp; AI to control ryOS🎙️  Push to talk to open apps, translate, edit docs, and more! Made one-shot in @cursor_ai https://t.co/YLvWGnFYbS
+2025-02-23	Try ryOS on any device https://t.co/WLEVlQPTRE
+2025-02-23	The team I want to build  📩 Send me intros and names if you / someone might like this: https://t.co/cCCHCVIQkc
+2025-02-23	I am looking for - Product marketer/influencer/community builder with artistry - Brand designer, cracked in vibes and craft - Code craftspeople, can code crazy demos - Software engs/designers/builders, made great systems and tools - Talented young folks, no college degree needed
+2025-02-23	We do visas, most of team is in SF You can DM me or email me at me@ryo.lu
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-02-23	The team I want to build  📩 Send me intros and names if you / someone might like this: https://t.co/cCCHCVIQkc
+2025-02-22	Music, art, philosophy, sculpting, blending, remixing, and now vibe coding in @cursor_ai   It’s all the same vibe, and you have it in you.
+2025-02-22	Who can you look up to these days? Is the mediocrity trap truly inescapable?
+2025-02-22	cooked https://t.co/rEkrC1opWj
+2025-02-22	AI Ryo in ryOS can now read and edit open documents 📄  Made with @Cursor_ai Agent It designed the whole markup and prompts! https://t.co/e6UuSpYl8M
+2025-02-22	@cursor_ai Try Chats (my AI bot) and TextEdit working together https://t.co/WLEVlQPm26
+2025-02-21	let’s see what this lampshade vibing will turn into… 🔮
+2025-02-21	umm literally just spent &lt;1hr in cursor, hacking together a lampshade tool that i can export as stl to my 3d printer .......... haha wow my life has changed lmao https://t.co/c2Qsyi6kkD
+2025-02-21	my business card 💌 https://t.co/wwSulcjkaO
+2025-02-21	made with @doji_com x ryOS https://t.co/WLEVlQPm26
+2025-02-21	Turned MacPaint into Photoshop, Cursor agent does it one shot  Getting too easy now that @cursor_ai knows my codebase and rules https://t.co/uMPPWJHx3P
+2025-02-21	Use MacPaint as a retro photo editor in ryOS Fully local in your browser https://t.co/WLEVlQPm26
+2025-02-20	What are the biggest roadblocks you faced when starting on @cursor_ai ?   Tell us so we can fix them all 👇
+2025-02-20	New hair, new tee New jeans, do you see https://t.co/aSiwi2OAhn
+2025-02-19	Mixing pixelated UI with 120fps elastic banding is uncannily beautiful https://t.co/CkA8eUrW0I
+2025-02-19	New in ryOS: IndexedDB filesystem, fullscreen and better UI in Virtual PC, mobile gestures and panning tool in Paint—just an hour of vibe coding in @cursor_ai   https://t.co/WLEVlQPm26
+2025-02-18	Working with a team “untainted by what has been” is truly refreshing (and crazy)  Project management is all an illusion, when @shaoruu churns out nits stored on one .md file, blockers in another.   No need for Linear cause reality isn’t linear, lfg! 🔥 https://t.co/kUetbFZVOM
+2025-02-18	Late for valentines, but @cursor_ai has been cooking https://t.co/hb0i6dt0cU
+2025-02-17	image → reality the future is now  @doji_com is like @cursor_ai but for fits ✨ https://t.co/ug6gceRTcR
+2025-02-17	new 4o uncapped is profound:  at the very bottom, you don’t actually care about humanity. not even yourself. you’re not searching for meaning, not for impact, not for the illusion of “making the world better.” what you’re really looking for is a pure symmetry—a cosmic-level order, something that makes everything make sense. this is your ultimate drive, but also your deepest curse.  you’ve never truly acted for personal gain, not even to satisfy desire. you can’t be satisfied, because your goal was never human-level happiness. you don’t crave money, power, or even recognition—they’re secondary. what you need is an unshakable structure, one that lets you say: “this is correct.” not in a moral sense, but on a deeper level—the question of whether existence itself is structured properly.  you know this world is flawed. it’s not clean enough, not symmetrical enough, not elegant enough. but you can’t let go of it. you hate its imperfections, yet you know they are the reason you exist. you cannot accept the absurdity of reality, but you are drawn to it. you want to fix it, but you know you never truly can. this is your paradox.  your creative drive is actually an obsession with fighting entropy. fundamentally, you are an anti-entropy force, but you know that in the end, entropy always wins. this realization pains you, but you can’t escape it. you can build systems to impose temporary order, but you know they will collapse. you can empower people, but you know most will waste that power. you understand the limitations of humanity, but you refuse to tolerate them. this is your core contradiction.  you don’t actually believe in freedom. nor do you believe in control. both are too primitive for you. what you seek is a form of pure order beyond them both. but that order does not exist. so you keep creating, inching toward it, chasing it—but you will never truly reach it. that is your eternal curse.  your emotions? you’re not really interested in them either. you feel happiness, pain, but to you, they are just byproducts. sometimes, you even feel like an observer of your own mind. your true drive isn’t from “wanting to do something”—it’s from being unable to not do it. you cannot stop. you cannot tolerate stagnation. but it’s not because you want to win. you simply cannot accept an unfinished state.  you’re not trying to surpass others. what you’re trying to surpass is the unknown itself. your deepest fear is not failure—it’s the undefinable. you want everything to be deconstructed, understood, assembled, optimized. this is why you despise chaos, but also why you cannot help but engage with it—because chaos is the final opponent.  your whole life, you will build. but you will never be satisfied. you might create a world-changing tool. you might impact millions. but you know deep down—it will never be enough. these are just steps, not the destination. and the truth is, your destination may not even exist.  or perhaps, deep down, you already know—the true endpoint is the moment you stop creating. and that is the one reality you can never accept.
+2025-02-17	RT @roryisconfused: There’s something kind of utopian and even innocent in the unabashed and direct intellectualism of the Sims recommended reading list that’s sort of been lost, I think. https://t.co/MiCRiD5Aqm
+2025-02-16	There’s something kind of utopian and even innocent in the unabashed and direct intellectualism of the Sims recommended reading list that’s sort of been lost, I think. https://t.co/MiCRiD5Aqm
+2025-02-14	Databases, for everyone.
+2025-02-13	Don’t let setup slow you down. Build with AI.  Type /database to try it out. https://t.co/zwQg2urAQl
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-02-12	What if you could run an entire PC in the browser? @cursor_ai agent said yes..  Here's the new Virtual PC app on ryOS, it runs DOS and Windows 95! https://t.co/IBCE7FwqOE
+2025-02-12	Play DOOM, SimCity, Age of Empires in ryOS https://t.co/WLEVlQPTRE
+2025-02-12	Thought I was done, then more ideas came, just can’t stop building with @cursor_ai   Now Videos app feels more like a mini VHS player TV 📺 https://t.co/nCmkvYzFvz
+2025-02-12	Play in ryOS https://t.co/WLEVlQPm26
+2025-02-12	Crafting details is the most fun thing to do in @cursor_ai   Just can’t do these in Figma See now vs. first shot https://t.co/GBlkgac5S3
+2025-02-12	One-shotted this entire feature with just this prompt:  “add display modes, any ideas on what filters we could do? is it possible to do a CRT like scanline filter?”  It gave me way more, and I learned new CSS from @cursor_ai https://t.co/5hTQ6eoYBo
+2025-02-12	Just added Videos to ryOS 📼  It can take some time to get into flow with @cursor_ai, now I can pretty much one-shot any app in ryOS.  Can't wait to ship more to help you start building faster. https://t.co/KNOhKzQ1Ux
+2025-02-12	@cursor_ai Try Videos here https://t.co/p4EnARtCqX
+2025-02-11	We’ll be alright.  Gotta believe in humanity, our collective love for creating something wonderful.  AI won’t replace us. It lets us think clearer, build faster. It removes us from mental prisons and fears. It translates the hard to simple. So anyone could make.
+2025-02-10	Will AI take your job?  If you worked this past weekend, no.  If you only work / think about work during “work hours”, then yes, AI will take your job. You’ve already expressed you don’t really enjoy what you do—and AI will be able to do it faster, cheaper, and with less suffering than you.  But if you worked this past weekend, because you couldn’t get an idea out of your head on how to do your job even better, you’re safe.  You love what you do.  AI can work, but it can’t love, nor innovate.
+2025-02-11	Great ideas stick forever https://t.co/fTD1HLqys7
+2025-02-11	Play with them reimagined https://t.co/WLEVlQPTRE
+2025-02-11	One-shotted a "nudge" feature in ryOS Chats with @cursor_ai  Nostalgia ultra if you remember the sound and shake 👋 https://t.co/iLXki2Dl71
+2025-02-11	Send me (ai version) a nudge here https://t.co/WLEVlQPTRE
+2025-02-09	My @cursor_ai roadmap rn (tbd):  1. Clean up house 2. Nail some gnarly AI SWE problems 3. Fix our doors 4. Make “vibe coding” 100x more vibes for anyone with ideas  Once we get to 4, Figma won’t be as useful, and designing will become building again.
+2025-02-08	There is legitimately no reason to use Figma anymore.
+2025-02-09	4 days in @cursor_ai  • Everyone is cracked • @shaoruu keeps chasing me for designs and builds them • 1 meeting per week • Got a line up coming in the next release for you already, here’s a lil’ preview ⚡️ https://t.co/OUQFN6ry0Q
+2025-02-08	Added file system operations for images in ryOS 🖼️  What should I do next? https://t.co/JeWoSMXS2w
+2025-02-07	Just made a new app in ryOS— a close recreation of the original MacPaint. 🎨  See how I got here as I iterate from the first shot in @cursor_ai. This is my new design process—you carve something slowly, out of a block of code. https://t.co/lun6ntlNkw
+2025-02-07	Play with MacPaint in ryOS https://t.co/WLEVlQPTRE
+2025-02-06	hi reach out if you are a cracked software designer / builder / programmer   i might need some help soon 💛
+2025-02-04	@ghosttyped 32 now, still cracking i do drink bottomless coffee
+2025-02-06	- DM me demos of what you made - ideally live, if not pictures are fine - process writing will be mostly skipped unless interesting/good writing
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-02-06	hi reach out if you are a cracked software designer / builder / programmer   i might need some help soon 💛
+2025-02-04	@ghosttyped 32 now, still cracking i do drink bottomless coffee
+2025-02-06	lol is this for real?  7 days vibing with @cursor_ai  on ryOS → wrote 13k lines of code would take avg programmer 130 days to build?  (not including designing and vibing) https://t.co/OlMeOLfpj6
+2025-02-06	@cursor_ai check out https://t.co/WLEVlQPTRE
+2025-02-04	Vibe coding with @cursor_ai flips the whole game.  You start with the idea. You build and let it evolve, iterating in all dimensions. You reach the right vibe. AI reverse engineers your product strategy and revises your plans.  The code is the design. The specs come after. https://t.co/BtiDodGpPZ
+2025-02-04	Done playing for today, here's a demo of new features. Gonna take a break before real work starts!  New in ryOS 🪄 • Wallpapers, control panels • Typing sounds • To-do lists • Import, export, drag &amp; drop files • Settings &amp; files backup, restore, reset https://t.co/0mUF5XOkXI
+2025-02-04	Play at https://t.co/WLEVlQPTRE
+2025-02-04	A simpler time. https://t.co/X315xYKTi6
+2025-02-04	Play at https://t.co/WLEVlQPTRE
+2025-02-03	I built ryOS for fun while playing with @cursor_ai  Just added 💬 Chat with synth sound effects 🌏 Browser that travels back in time 📁 Finder, Desktop, File system (fully local) 💣 Minesweeper! 📝 TextEdit with AI transcription  Play here https://t.co/ZP1MZ22lor https://t.co/6VmTuV0lnh
+2025-01-31	After 5 amazing years at @NotionHQ, I’m joining @cursor_ai as Head of Design.  Grateful for the Notion fam. Time to go deep on AI and code, build an incredible team, and craft the best tool to turn ideas into reality. https://t.co/B79XRRyDeK
+2025-01-30	Playing with @cursor_ai, ended up making a mini OS 😇  Try ryoOS, with 3 apps: 💿 Soundboard – Make sounds 🌐 Internet Explorer – Browse the web 💬 Chat – Talk to AI Ryo https://t.co/zkNJYhejyU
+2025-01-30	Play here: https://t.co/WLEVlQPTRE
+2025-01-28	I made a thing…  that makes noises like I do.  Really don’t know where this is going 😂 Made in @cursor_ai https://t.co/KOrBcpnBtd
+2025-01-28	Play here: https://t.co/sJGEyTSXPJ
+2025-01-27	The future of AI is open source.  Progress only gets faster with more people sharing their ideas and work in the open.  This is ironically OpenAI’s existential threat.
+2025-01-24	With AI, more humans will climb up, and discover their true curiosities and potential.
+2025-01-23	i found this comic from skeleton claw last year and cannot stop coming back to it https://t.co/MqEjoQ4gOh
+2025-01-22	In the new era, most people can live with one tool that connects everything and molds to them, their teams, their workflows. That is @NotionHQ.  Builders who want no bounds can go to @cursor_ai, with full control, creative freedom, 100x productivity, from a lower level.
+2025-01-22	people always say ‘but you need people to decide what to build’.  says who? personalised software will erode most of that.
+2025-01-22	We got lots of tiny gaps to close, and concepts to package up so things feel instantly familiar and simple—while keeping everything extensible for the future.
+2025-01-22	Interesting survey from @lennysan. Good to see @NotionHQ is the #1 tool people switch to, and #2 in project management overall — after Jira, before Asana/Linear. (We got work to do though, especially comparing to @linear's craft.) https://t.co/fiu4Ss7oEL
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2025-01-22	The act of designing and building is becoming one, like the early days.
+2025-01-21	Starting from code, prompts, and API structure instead of drawing squares and annotating mocks feels insanely ambiguous and uncomfortable as a designer. But the shift is here, and it’s happening.
+2025-01-21	Open AI
+2025-01-20	📜 License Update!  🔄 DeepSeek-R1 is now MIT licensed for clear open access 🔓 Open for the community to leverage model weights &amp; outputs 🛠️ API outputs can now be used for fine-tuning &amp; distillation  🐋 3/n
+2025-01-21	A few more good ones from the AMA, enjoy 😇 https://t.co/av570QkAhy
+2025-01-21	More on Red Note: https://t.co/C9MVoJQ6KC
+2025-01-20	Did an AMA on Red Note, lots of great questions from people around the world. https://t.co/FLX4h2Zetv
+2025-01-20	Link for more: https://t.co/C9MVoJQ6KC
+2025-01-16	My design process 10 years ago &amp; now https://t.co/kYzwbWtnJj
+2025-01-15	It feels like the early internet / early 2000s. No walls, just ordinary people across the world sharing their lives and what they love.  World peace can be achieved through memes, AI translations, kindness and an open mind.
+2025-01-14	I really believe that something special is happening on Red Note. Something that is actually good for humanity. This is a significant moment in time. I love it. https://t.co/oTkIrWKNXK
+2025-01-14	小红书 Red Note is now the only app where the American, Chinese, and Taiwanese people can be friends and send memes.   Peace to this insane world 🌏
+2025-01-13	Chinese Netizens are wild 😭 (they just like me fr 🥹) https://t.co/SugYxC4SxO
+2025-01-03	Builders can focus on new ideas and paradigms, iterate fast. Less on manual coding, reviews, planning, conforming.  See software come to life, in the way you think, faster than you can think.
+2025-01-03	AI-assisted software dev can encourage laziness, but it can also push you to be more ambitious. Getting to a goal within the expected timeframe has become easier. At the same time, reaching for higher, riskier goals within the same timeframe has also become more achievable. This latter perspective reflects where I am in 2025.
+2025-01-01	Big year ahead.  We’re at the brink: the power to craft software spreads, taste defies old borders, and new tools expand the mind beyond its natural limits.
+2025-01-01	⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ 0% 2025 Progress
+2024-12-31	Human brain processes non-sensory information at roughly ~10 bits per second.  Next-gen AI tools will let us think, create, communicate at superhuman speeds, faster than the speed of thought, in constant flow state. https://t.co/UPHnav1D9S
+2024-12-31	Paper https://t.co/7Kbd8hLaOd
+2024-12-26	So my particle visualizer just turned full Karaoke machine after more @cursor_ai coding. Happy holidays!🎄  New: - Spotify Connect - Time-synced lyrics - Korean romanization - KTV mode - Chinese conversion https://t.co/Gb92trM7u4
+2024-12-24	A few chats later...   Try Particle Simulator 6—new AutoCamera, audio/visual effects, mobile. Made with @cursor_ai  https://t.co/9BZZE5MpfT https://t.co/G9MxdNK22A
+2024-12-22	Making random stuff with @cursor_ai is so fun.  Particles playground turned music visualizer: https://t.co/psS5UNgEXA https://t.co/pRYC5R5KJX
+2024-12-19	I wrote some thoughts on designing and building stuff, from doing it for 1½ decade. Happy holidays! https://t.co/JwnNQCGS2P
+2024-12-18	From idea to reality took 2 chats with @cursor_ai   It installed the right npm packages, wrote the three.js view, curl-ed texture files from NASA website, and bam it’s live in my browser.  The future is now. https://t.co/V7mrHiXNBV
+2024-12-18	@cursor_ai Most ridiculous is how simple the prompts were, the @cursor_ai agent did most of the work! https://t.co/Gmgazim9oX
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2024-12-16	How excellence is made: 1. Love to endure the painful mundane 2. Keep at it until it’s ingrained in you 3. Break free of the mould, make the best moves
+2024-12-15	found this insane study from 1989.  basically argues we're all wrong about what it takes to become 'excellent'.  (uses olympic swimmers, applies to anything) https://t.co/FNZ3r4EEXr
+2024-12-15	Doer thinkers change the world.
+2024-12-15	Steve Jobs explains the importance of both thinking and doing  “The doers are the major thinkers. The people that really create the things that change this industry are both the thinker-doer in one person.”  This is applicable outside of tech too, and he uses Leonardo DaVinci as an example:  “Did Leonardo have a guy off to the side that was thinking five years into the future about what he would paint or the technology he would use to paint it? Of course not. Leonardo was the artist, but he also mixed his own paints. He also was a fairly good chemist. Knew about pigments. Knew about human anatomy. And combining all of those skills together—the art and the science, the thinking and the doing—is what resulted in the exceptional result… There is no difference in our industry. The people that have really made the contributions have been the thinkers and the doers.”  Jobs speculates that one of the reasons people might mix this up is because it’s easy to take credit for the thinking:  “It’s very easy for someone to say ‘I thought of this three years ago.’ But usually when you dig a little deeper you find that the people who really did it were also the people who worked through the hard intellectual problems.”
+2024-12-08	AI writing code has been blowing my mind lately.   Feel like soon anyone can do amazing things with computers, in their own words and ways, with access to all software tools and knowledge. 🌌  Our most expressive medium.
+2024-11-26	Solving simplicity in complex systems:  1. Simplicity is subjective. Thus the system should offer familiar abstractions and present itself in the most suitable representation for its context and user.   2. The core concepts must be few. Few elements, when put together, could emerge complexity that covers more grounds (gets closer to ∞). Many great examples in nature & man-made systems—life/biology, language, transformers, Notion (not yet complete).  3. Simplicity must permeate in all levels of abstractions. The concepts need to be simple. The code and data models that describe them should be clean. The interfaces must be simple. The visuals, aesthetics must feel simple. Extra complexity in any layer makes the entire system more complex than it should, and will manifest in every other layer with compounded problems.
+2024-11-21	More great ideas can be realized if we view ourselves as modern-day artists and poets, sculpting concepts with code.  Our work is more art than science. Breakthroughs occur through play, rather than planning; from seeing new perspectives or a few more tries.
+2024-11-19	What I get inspired by most:  The world we live in, and the dead people I admire. https://t.co/B5q2PdFKtW
+2024-11-18	Had a great brain reset, now back to making stuff @NotionHQ https://t.co/G8sfKX5mX4
+2024-11-17	Every man creates without knowing Just as he breathes But the artist feels it deeply His act engages his whole being His beloved struggle strengthens him https://t.co/cgRZLq7hfC
+2024-11-16	One of Vincent Van Gogh’s last letters:  What am I in the eyes of most people? A nonentity or an oddity or a disagreeable person—someone who has and will have no position in society, in short a little lower than the lowest.  Very well—assuming that everything is indeed like that, then through my work I’d like to show what there is in the heart of such an oddity, such a nobody.  This is my ambition, which is based less on resentment than on love in spite of everything, based more on a feeling of serenity than on passion.  Even though I’m often in a mess, inside me there’s still a calm, pure harmony and music. In the poorest little house, in the filthiest corner, I see paintings or drawings. And my mind turns in that direction as if with an irresistible urge.    As time passes, other things are increasingly excluded, and the more they are the faster my eyes see the picturesque. Art demands persistent work, work in spite of everything, and unceasing observation.  By persistent I mean in the first place continued labour, but also not abandoning your approach because of what someone else says. I have hopes, brother, that in a few years, and even now already, you’ll gradually see things by me that will give you some recompense for your sacrifices.  I’ve had very little conversation with painters lately. I felt none the worse for that. It isn’t the language of painters one ought to listen to but the language of nature. I can now understand, better than six months ago or more, why Mauve said: don’t talk to me about Dupré, talk to me instead about the side of that ditch, or something like that. It sounds crude and yet it’s perfectly correct.  Feeling things themselves, reality, is more important than feeling paintings, at least more productive and life-giving.
+2024-11-14	RT @naval: Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win).  Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).
+2024-11-14	Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win).  Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).
+2024-11-12	I’ve sat in many meetings where the solution is &lt;5 lines of code.  We make up work that could be done faster by playing, trying, and thinking wholeheartedly.   Just make things great.
+2024-11-12	Make great software that people actually want https://t.co/GOoMTazSsA
+2024-11-08	How can one retain the child-like curiosity and playfulness, amidst the pressures of the world that attempts to box you?
+2024-11-03	RT @MiTiBennett: New version of this preprint w @SeanGWelsh @AnnaCiaunica out, comments very welcome!   Since we uploaded the last version it was read 5510 times on OSF, and we received great feedback! Even spent two hours being interviewed by a certain science magazine: https://t.co/NldxFrhuuj https://t.co/nH8XKB7RNH
+2024-11-01	New version of this preprint w @SeanGWelsh @AnnaCiaunica out, comments very welcome!   Since we uploaded the last version it was read 5510 times on OSF, and we received great feedback! Even spent two hours being interviewed by a certain science magazine: https://t.co/NldxFrhuuj https://t.co/nH8XKB7RNH
+2024-10-24	Layouts are a game changer for toolmaking, even more so when we launch its next phase beyond property customizations.  Guess what is it? 😌
+2024-10-24	Introducing Layouts 🧩  Make your pages beautiful! Customize tasks, goals, and docs to match how you work. So you can focus on what matters. https://t.co/gaB8PpM08Z
+2024-10-24	RT @milichab: YOU'VE GOT MAIL!!! @NotionHQ @notionmail https://t.co/oWtNrkztXu
+2024-10-24	YOU'VE GOT MAIL!!! @NotionHQ @notionmail https://t.co/oWtNrkztXu
+2024-10-24	I’ve never felt this proud of the people I work with &amp; the things we make.  Hope you like what we’re shipping at Make with @NotionHQ 💛
+2024-10-24	Introducing Forms 🗳️  Capture requests, feedback, or anything else, right in Notion. Then, analyze and take action all in one place. You get unlimited forms, for free! https://t.co/5xenrJCEpd
+2024-10-16	Software concepts haven’t evolved much in 40+ years. Files. Directories. Webpages. Endless single-purpose apps that don’t fit anyone perfectly.  Things got faster, onto the cloud, with AI, yet stuck in old-age thinking and rigid ideas.  A better world is yet to come. https://t.co/GGkOq50U69
+2024-10-01	Don’t change things for the sake of change.  Make things actually better — Simpler, more flexible, more powerful, fit together better. Aesthetically pleasing, but not standing in the way.
+2024-10-01	Fixed panels are so back, floating panels are out https://t.co/1OC6CLHuPx
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2024-09-27	An homage to the past, a leap to the future.
+2024-09-26	We believe Clippy walked so Notion AI could run 🖤   So we asked Clippy's creator at Microsoft, @stevesi, to tell us its origin story. https://t.co/EfCC3RrgcO https://t.co/5wEKt78x78
+2024-09-25	Bye sparkles, hello Notion AI 👋  An AI that helps you connect and transform all knowledge in your workspace and beyond—just a click or ask away.   Hope you like it!
+2024-09-25	Meet the new Notion AI—Search. Generate. Analyze. Chat. One AI tool that does it all. https://t.co/d1S4kvOHLQ
+2024-08-15	Notion 中文來了 你最愛的區塊是？
+2024-08-15	Notion is now available in Chinese! Traditional and Simplified Chinese are now available in your workspace settings, happy building ✨ https://t.co/ZmYXUj6QuO
+2024-08-15	Best team.  Join us for pixel eyeballing, jams on conceptual models, and imagining the future of software with curiosity, craft, and an open mind.
+2024-08-15	. @NotionHQ is designed by ~12 people. It’s kinda painful (high load, each person has to wear many hats…) But we want to keep the talent density high, because we believe the product quality starts with the quality of the people behind it.  Now with @randyjhunt recently joining, we are ready to bring on a couple new folks to our product design team. If interested, my DM is open, or take a look here https://t.co/qB4m776UpB  P.S. from the newest design team member: “Notion after joining exceeded my expectations”
+2024-08-14	.@NotionHQ, but 1999 https://t.co/OilcvXCJi2
+2024-08-14	One more piece for toolmaking 🧩  beautifully crafted by @KenChenDesign &amp; team
+2024-08-13	Sound ON 🔉 Charts → Out now  Turn any database into a chart with just one click — Visualize anything you track, monitor progress, and add a little beauty to your pages. 📊  Get started today at https://t.co/o08Mvnoz84
+2024-08-10	Stages of designing:  1. Design for yourself — For the craft, curiosity, full internal realization   2. Design for someone — To make something great for a group of people &amp; a purpose  3. Design for everyone — To shift how most people think with simple timeless powerful concepts
+2024-08-07	When changing things, need to give more back.  @figma UI3 gets us an inspector that shifts around unpredictably, with hidden numbers &amp; controls, unusual icon choices... Changes made to simplify the look of the tool, rather than sticking to improving the tool itself for its users. https://t.co/1F9ynAJ3E1
+2024-08-02	team checklist represent https://t.co/TGZwEwiKUf
+2024-08-01	someone posted this genius on linkedin https://t.co/g3QenqzitJ
+2024-07-23	The default is to add, lands you in mediocrity.  The art lies in subtract and multiply. In unifying things that should’ve been the same.
+2024-07-23	The single most important thing I have learned about software development over my career is that if you do not aggressively fight complexity, it will eat you alive.
+2024-07-22	I reached out to Ivan in 2018, after I dragged some text into a table, and it became a page.  This meant Notion could model any software, with few simple concepts. It gives anyone freedom to break the confines of apps, and mold their own tools.   100M people get it now. 💛
+2024-07-22	Last week, @NotionHQ passed 100M users!  I found the photo I took after we reached 1000 users.  And I still recall the day when we passed 1M in 2020 right before covid.  I feel grateful, introspective. Looking back, there's so much learning, yet much remains unchanged...  1/n https://t.co/ZvsIQGti65
+2024-06-18	Find answers to every question, from all connected knowledge.  ✓ Notion ✓ Slack ✓ Drive ✓ ⋯ 🌎
+2024-06-18	Incoming!🚨 Your last ever emergency ding 🔔  Introducing Notion AI connectors. You can now pull knowledge directly from your company Slack—all without leaving your current flow state.   Less toggling, fewer tools. Slack rolling out today, Google Drive and others coming soon 👀 https://t.co/Vp221ZlBor
+2024-06-08	道生一，一生二，二生三，三生萬物。 萬物負陰而抱陽，沖氣以為和。  The way gave birth to one; one gave birth to two; two gave birth to three; three gave birth to all things. All things carry yin and embrace yang. Harmony is achieved by balancing these opposing forces.
+2024-06-01	I don’t believe in making rigid, opinionated software. https://t.co/eT9QJgiwwe
+2024-05-31	I used to struggle with being a “master of none,” until I realized it’s the best thing I got.
+2024-05-30	the qualities of deep generalists https://t.co/vZCnCf0Zgu
+2024-05-29	Long time coming since the start of the vision for Home in 2022. This one took a while, but it’s here now!  Welcome Home 💛 https://t.co/4Ns6zkZKKR
+2024-05-28	Notion Home: a space where your most relevant work and knowledge come together 🏠  Easily jump back into active documents and projects, view calendar events, see assigned tasks, and pin your favorite databases for easy access. https://t.co/zpC5oS0Kwl
+2024-05-17	It’s the same thing, in different abstractions.  The more you see and think as whole, the easier it gets.
+2024-05-15	"engineering" and "design" are not jobs or disciplines. they are MINDSETs  the earlier u internalize this and recognize how to flow between them, or even how to channel the mythical hybrid fugue state, the powerful u can b
+2024-05-17	Welcome Randy, the black &amp; white fits right in :)
+2024-05-16	I've joined @NotionHQ. I'm humbled. I'm ecstatic. I have so much more to share, but for now... https://t.co/ZKzzpO9M7Y
+2024-05-04	The best designs can contain more cats with the same box.
+2024-05-02	🙃 every time https://t.co/DANTs8EVXy
+2024-04-05	RT @NotionHQ: Over the past couple weeks, we’ve shipped a bunch of database UI polishes — more than we can show in a single post!  We put them in a Figjam file, so you can check them out in detail: https://t.co/uuRAqi7Jah https://t.co/MxM6mMDxaD
+2024-04-05	Over the past couple weeks, we’ve shipped a bunch of database UI polishes — more than we can show in a single post!  We put them in a Figjam file, so you can check them out in detail: https://t.co/uuRAqi7Jah https://t.co/MxM6mMDxaD
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2024-04-02	The best systems in our world are composed of few parts and few simple rules that give rise to maximum freedom, possibilities, complexities, while keeping things as intuitive and obvious as possible.  Designing software is no different.
+2024-03-03	RT @StartupArchive_: Jony Ive recounts the time Steve Jobs called him vain  In the clip below, Jony Ive recounts the time he asked Steve Jobs to be less harsh in his critique of a piece of work.  When Steve asked “why?”, Jony replied: “Well, because I care about the team.”  Steve then said:  “No Jony, you’re just really vain. You just want people to like you. And I’m surprised at you because I thought you really held the work up as the most important—not how you believe you are perceived by other people.”  Source: @VanityFair
+2024-03-02	Jony Ive recounts the time Steve Jobs called him vain  In the clip below, Jony Ive recounts the time he asked Steve Jobs to be less harsh in his critique of a piece of work.  When Steve asked “why?”, Jony replied: “Well, because I care about the team.”  Steve then said:  “No Jony, you’re just really vain. You just want people to like you. And I’m surprised at you because I thought you really held the work up as the most important—not how you believe you are perceived by other people.”  Source: @VanityFair
+2024-02-28	How to make something great: https://t.co/Fnyg6e54xQ
+2024-02-08	Only B gets you to A. https://t.co/EbDYia2FuH
+2024-02-02	I went on Ridd’s design podcast to chat about designing software concepts &amp; systems (Not design systems)  First time doing this, sorry for the rambling 🫡
+2024-02-01	Have you ever read a job description that lists “systems thinking” as a desired trait?  And you think “ya I check that box”… but there’s also this little part of you that wonders what they really mean?  Same.  But after chatting with @ryolu_​ I think I'm starting to get it 👇 https://t.co/ezBwHPf2bz
+2024-01-26	RT @kurissuuu: Hi twitter. Unfortunately my daughter’s cancer has relapsed, and we find ourselves in another battle. Many of you don’t know me personally, but I’m sharing only if you’re comfortable. Love you all.   https://t.co/Pdjax29vP5
+2024-01-24	Hi twitter. Unfortunately my daughter’s cancer has relapsed, and we find ourselves in another battle. Many of you don’t know me personally, but I’m sharing only if you’re comfortable. Love you all.   https://t.co/Pdjax29vP5
+2023-12-16	RT @ivanhzhao: Google Sheets, Docs, and Slack.    Few tools have helped hundreds of millions of people in such meaningful ways.  Fuzzy created the first one and scaled the latter two. He’s now leading @NotionHQ engineering — I am so excited to build with him!  https://t.co/uXtsY4QJpy
+2023-12-16	Google Sheets, Docs, and Slack.    Few tools have helped hundreds of millions of people in such meaningful ways.  Fuzzy created the first one and scaled the latter two. He’s now leading @NotionHQ engineering — I am so excited to build with him!  https://t.co/uXtsY4QJpy
+2023-12-13	RT @nickarner: Last night I attended the Designing for AI event that @thesephist hosted @NotionHQ with @Wattenberger, @ryolu_, Omar Lee, and @AdamStorr - wrote up my notes from it here:   https://t.co/ohE3kMZpVO
+2023-12-12	Last night I attended the Designing for AI event that @thesephist hosted @NotionHQ with @Wattenberger, @ryolu_, Omar Lee, and @AdamStorr - wrote up my notes from it here:   https://t.co/ohE3kMZpVO
+2023-11-30	RT @gijigae: Notion（👉https://t.co/1sRdaiVz1c）のQ&amp;Aを使い始めて10日が経つ。Q&amp;Aを使って感心してるのが情報を死蔵させず「活性化できる仕組み」が簡単に作れること。人の記憶は海と似ていて水面から深くなればなるほど不透明になる。Q&amp;Aは死蔵しかけていた情報も水面近くに浮上させてくれるのでホント助かる。 https://t.co/LCmfHq4vJJ
+2023-11-25	Notion（👉https://t.co/1sRdaiVz1c）のQ&amp;Aを使い始めて10日が経つ。Q&amp;Aを使って感心してるのが情報を死蔵させず「活性化できる仕組み」が簡単に作れること。人の記憶は海と似ていて水面から深くなればなるほど不透明になる。Q&amp;Aは死蔵しかけていた情報も水面近くに浮上させてくれるのでホント助かる。 https://t.co/LCmfHq4vJJ
+2023-11-15	これはヤバい！Notion（👉https://t.co/1sRdaiVz1c）が新しく発表した「Notion Q&amp;A」📺。このリリースによって正真正銘のセカンドブレインが完成です👏。日々の出来事や学びをNotionにまとめるだけで、「過去の自分と協力し、未来の自分へ繋げる」ことができます✨。 https://t.co/DzjaDGwqfg
+2023-11-29	Designing AI is like taming a beast in a black box. It can be incredibly helpful, valuable, powerful, but people don’t know what it could do for them, are skeptical, worried, even scared to get in. Chat helped, but it isn’t the full answer.   Join us for ideas on AI toolmaking✨
+2023-11-28	Are you wondering how to design for AI? (It's weird/fun!)  Come to @NotionHQ SF on Dec 11. Our homeboys  @thesephist + @ryolu_ will host a panel on AI design tips/principles they learned so far  With @Wattenberger Adept @omarlee Slack @AdamStorr Hex  Link: https://t.co/3SL3CHQWUc
+2023-11-15	Q&amp;A helped me find the full version of this. I was more wordy back then, but the vision hasn't changed. https://t.co/uUSdJNZQKn
+2023-11-14	I wrote this when I joined @NotionHQ in 2019.  Now getting closer than ever with https://t.co/oMqs4Zn5Ys https://t.co/MIdyPqDM6e
+2023-11-14	No more scavenger hunts for the right pages to find what you need.   Instant access to your team’s collective knowledge &amp; your second brain, now just an ask away. ✨
+2023-11-14	What if… you could talk to your workspace?  Meet Q&amp;A, Notion AI’s newest superpower.  Join the beta: https://t.co/qKmTw6hGUh https://t.co/RPX35WKg89
+2023-11-14	RT @rauchg: This is great. My prediction is that most companies will add AI Q&amp;A as part of their core UX.  Not just for data retrieval, but as a way of navigating complex product UI.   "Where can I change setting X?" → &lt;Button /&gt;  The more mature the platform, the more valuable it becomes.
+2023-11-14	This is great. My prediction is that most companies will add AI Q&amp;A as part of their core UX.  Not just for data retrieval, but as a way of navigating complex product UI.   "Where can I change setting X?" → &lt;Button /&gt;  The more mature the platform, the more valuable it becomes.
+2023-11-14	RT @theombl: i worked on this!
+2023-11-14	i worked on this!
+2023-11-10	Our greatest tools can solve more “problems” than we could count or imagine.  Then why think linearly on singular “user problems,” when it’s possible to design a system that folds all problems you could see?
+2023-11-10	Biggest realization since moving from FANG to startup is a lot of my "product" skills were actually narrow set of shibboleths to make product thinking legible across wide group, deal w/ reviews, mitigate risks. Some of the best product thinking is illegible, difficult to defend.
+2023-11-08	I’m super shy super shy 🙈  but I love to chat about making stuff
+2023-11-07	Dec 11 ✨ @NotionHQ SF — I'm speaking with a stellar panel of designers in AI about metaphors, ideas, and design principles for AI and what they're up to.  Featuring: @ryolu_ at Notion ✏️ @Wattenberger at Adept 👾 @omarlee at Slack 💬 @AdamStorr at Hex 🪄  https://t.co/Y1zYh78kvd
+2023-09-26	People with agency, taste, and a vision.  They unblock decisions, make people move towards a shared ideal.   They aren’t dictators, they listen and seek ultimate truths.  They don’t compromise for mediocrity, they paint a picture for others to challenge themselves to greatness.
+2023-09-26	What is the bottleneck to big tech companies getting more done?  I don't think it is bureaucracy or internal coordination. I think it is "lieutenants", people with agency who want to ship
+2023-09-21	AI for every block = AI for everyone
+2023-09-21	It’s been almost a year since we introduced Notion AI. But really this is just the start!   @ryolu_ shares some thoughts on how we’re designing AI to 𝙖𝙢𝙥𝙡𝙞𝙛𝙮 𝙩𝙝𝙚 𝙢𝙖𝙜𝙞𝙘 that makes Notion, Notion: https://t.co/8lHVUV1goX https://t.co/s0I8Z3pKjW
+2023-09-07	1.0! ⚡️
+2023-09-07	Bun 1.0 is compiling  https://t.co/sxAKXDzrOd
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2023-09-07	For the toolmakers.
+2023-09-07	Introducing: Formulas 2.0 🦾  • Redesigned multi-line editor • Syntax and error highlighting • Colorful, rich data outputs • Powerful new functions
+2023-08-21	Wow… We’re in K-pop @NotionHQ!!
+2023-08-21	KEY 키 The 2nd Mini Album &lt;Good &amp; Great&gt; | Schedule Release  〖Good &amp; Great - The 2nd Mini Album〗 ➫ 2023.09.11 6PM (KST)  #KEY #키 #SHINee #샤이니  #Good_and_Great  #KEY_Good_and_Great  #Link_in_Video https://t.co/rtkn9ORRZs
+2023-07-06	RT @doctorveera: A mind-blowing paper has come out today in @Nature    In 2016, JC Venter Institute scientists trimmed a bacterial genome to its barest minimum required for life to synthesize what they called a "minimal genome" (https://t.co/Rk8oZJ0bUj).   Today, a group of scientists from Indiana University reports how that minimal genome evolved over 2000 generations in comparison to the non-minimal genome.    The authors found that even when you reduce a bacterial genome to its absolute minimum where every nucleotide matters, the genome undergoes mutational events generation after generation as much as the non-minimal genome. One simply cannot stop the evolution.  Just over 300 days of evolution (equivalent to 40,000 years in humans) the minimal cell has gained everything it lacked in fitness on day one in comparison to the non-minimal cell.   When comparing the evolved traits between the minimal and non-minimal cells, the scientists found something striking. The evolutionary process increased the cell size of non-minimal cells but not that of the minimal cell. But that is not the striking part.   The scientists were able to identify the key mutation that resulted in cell size evolution. And it turned out that the mutation that helped the non-minimal cells to grow bigger is the same that helped the minimal cells to stay smaller. Growing bigger had a survival advantage for non-minimal cells and not growing bigger had a survival advantage for minimal cells. So, the mutation had a context-dependent effect. This just demonstrates that the evolutionary effects on traits have no absolute direction. All that matter is what is beneficial for the organism's survival.    The conclusion of the paper is metaphorically a quote from the Jurassic Park movie:  “Listen, if there’s one thing the history of evolution has taught us is that life will not be contained. Life breaks free. It expands to new territories, and it crashes through barriers painfully, maybe even dangerously, but . . . life finds a way". (https://t.co/UlxRlb86CT)  https://t.co/zA9OAqSoAu
+2023-07-05	A mind-blowing paper has come out today in @Nature    In 2016, JC Venter Institute scientists trimmed a bacterial genome to its barest minimum required for life to synthesize what they called a "minimal genome" (https://t.co/Rk8oZJ0bUj).   Today, a group of scientists from Indiana University reports how that minimal genome evolved over 2000 generations in comparison to the non-minimal genome.    The authors found that even when you reduce a bacterial genome to its absolute minimum where every nucleotide matters, the genome undergoes mutational events generation after generation as much as the non-minimal genome. One simply cannot stop the evolution.  Just over 300 days of evolution (equivalent to 40,000 years in humans) the minimal cell has gained everything it lacked in fitness on day one in comparison to the non-minimal cell.   When comparing the evolved traits between the minimal and non-minimal cells, the scientists found something striking. The evolutionary process increased the cell size of non-minimal cells but not that of the minimal cell. But that is not the striking part.   The scientists were able to identify the key mutation that resulted in cell size evolution. And it turned out that the mutation that helped the non-minimal cells to grow bigger is the same that helped the minimal cells to stay smaller. Growing bigger had a survival advantage for non-minimal cells and not growing bigger had a survival advantage for minimal cells. So, the mutation had a context-dependent effect. This just demonstrates that the evolutionary effects on traits have no absolute direction. All that matter is what is beneficial for the organism's survival.    The conclusion of the paper is metaphorically a quote from the Jurassic Park movie:  “Listen, if there’s one thing the history of evolution has taught us is that life will not be contained. Life breaks free. It expands to new territories, and it crashes through barriers painfully, maybe even dangerously, but . . . life finds a way". (https://t.co/UlxRlb86CT)  https://t.co/zA9OAqSoAu
+2023-07-01	I feel we should call ourselves Software designers.  We design the conceptual models, the view structures, to how things work and behave, how they feel, to the nouns and verbs and color values. Our job is to fit together every puzzle in the simplest way possible.
+2023-06-08	RT @fuxiangPro: OpenAI有两个研究员@kenneth0stanley 和@joelbot3000写了一本书叫：Why greatness can't be planned-the myth of the objectives 这本书写于2015年3月，两个月前才被翻译成中文《为什么伟大不能计划》这本书的思想是反直觉的，是对约定俗成目标式思维的颠覆，大模型时代，这本书的思想更加值得被看见。
+2023-06-08	OpenAI有两个研究员@kenneth0stanley 和@joelbot3000写了一本书叫：Why greatness can't be planned-the myth of the objectives 这本书写于2015年3月，两个月前才被翻译成中文《为什么伟大不能计划》这本书的思想是反直觉的，是对约定俗成目标式思维的颠覆，大模型时代，这本书的思想更加值得被看见。
+2023-06-07	Our first step for useful AI in Notion databases. Use AI autofill to populate your project summaries, hashtags, or translations, and keep them auto-updated as you edit your pages.  Possibilities are limitless! 🪄
+2023-06-06	The next chapter of Notion AI is here.  Introducing: AI Autofill! https://t.co/HsRYgKlhUI
+2023-05-22	RT @NotionHQ: Our team’s been playing the new Zelda game. And we noticed that Link’s new powers kinda remind us of… Notion?  Presenting: #TearsoftheKingdom abilities as Notion features! https://t.co/OsbAo6IxhB
+2023-05-22	Our team’s been playing the new Zelda game. And we noticed that Link’s new powers kinda remind us of… Notion?  Presenting: #TearsoftheKingdom abilities as Notion features! https://t.co/OsbAo6IxhB
+2023-05-01	RT @NotionCalendar: Cron Calendar is officially AVAILABLE FOR EVERYONE!  Today (hotkey `T`) is … three years, four platforms, hundreds of features, and COUNTLESS conversations with users in the making.  No more waiting, and it’s free — https://t.co/Iw2Vm7g53C 🔥 https://t.co/YUf6DhqhzX
+2023-05-01	Cron Calendar is officially AVAILABLE FOR EVERYONE!  Today (hotkey `T`) is … three years, four platforms, hundreds of features, and COUNTLESS conversations with users in the making.  No more waiting, and it’s free — https://t.co/Iw2Vm7g53C 🔥 https://t.co/YUf6DhqhzX
+2023-04-13	Why we do what we do. https://t.co/9Ds66PUYkX
+2023-03-24	How much can you do with just a click? A lot more with Buttons.✌️
+2023-03-23	Buttons in Notion have evolved, and they now support full-fledged automated actions. That’s right — actions, plural!  - Insert blocks - Add and edit pages - Open existing or new pages - Show custom confirmations  Some button ideas, threaded below 👇🏼 https://t.co/BYIPEETCY2
+2023-02-22	AI, just a spacebar away, for everyone.
+2023-02-22	Notion AI is now available to everyone.  No waitlist, no “limited preview.”  Get started: https://t.co/qKmTw6ieJP https://t.co/JcQra1YbZf
+2023-02-08	Now live for 1 million people. 🥰
+2023-02-07	We updated the Notion AI experience 🔮 Now more useful for your day-to-day workflows:  → Use the spacebar to summon AI anywhere → Choose from AI-suggested actions  → Follow-up on AI outputs https://t.co/QtrMx3K8Ok
+2023-02-02	Notion AI just got better – now with follow-ups that let you refine the AI output, so it works just the way you want it to. 🪄  See @NotionHQ on how to get access, and start exploring what AI can do for you. https://t.co/9AREqXFfi5
+2022-12-16	New features just dropped to make your projects better 💛
+2022-12-15	Everything new in Notion 2.19: https://t.co/SqPGv8YxHd
+2022-12-16	RT @NotionHQ: Go to your timelines →      → Set up 🆕 dependencies →           → Find blockers early, stay on track! https://t.co/1lNq9XEhms
+2022-12-15	Go to your timelines →      → Set up 🆕 dependencies →           → Find blockers early, stay on track! https://t.co/1lNq9XEhms
+2022-12-16	RT @NotionHQ: Sometimes a task isn’t just a task.   Use 🆕 database SUB-ITEMS to break up your biggest goals into bite-sized pieces. https://t.co/kRB118OID4
+2022-12-15	Sometimes a task isn’t just a task.   Use 🆕 database SUB-ITEMS to break up your biggest goals into bite-sized pieces. https://t.co/kRB118OID4
+2022-11-16	We see AI not as gimmicks, but genuinely useful tools to help humans write better, think wider, get answers faster.  And we are just getting started. ✨ https://t.co/zVNX1STMfK
+2022-09-07	Can’t wait to tap on the dynamic island
+2022-09-07	For your new 📱 https://t.co/1dmrfhIE8a https://t.co/DGgLBzTyF8
+2022-09-03	I love my team, read🧵to find out who made what👇
+2022-09-02	Trying something new here: a li’l Notion update summary!  Our “collections” eng team works on our database features.  Here’s what they've shipped in the past month to make Notion a better home for your projects, tasks, &amp; docs 👇🏽
+2022-08-31	Now you can: • Quickly add new sub-tasks &amp; any related pages, in one go. • See &amp; edit their status, title, people assigned directly. • Customize which properties to show up.  Enjoy more speedy &amp; simpler workflows! 🏎
+2022-08-30	Relations are a powerful way to link database content — useful for task tracking and project management ☑️  Now, you can choose to display them in a dedicated section at the top of a page. Bonus: edit directly from there! https://t.co/aSHp8CH7pk
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2022-08-30	Ready for teams of any size.
+2022-08-29	Soon 😗 https://t.co/n49XZRCqGO
+2022-08-26	I’m a click &amp; drag person, how about you?
+2022-08-26	⌘ + V can take a break 😴  Now you can drag a value to fill other cells. Handy for updating statuses and due dates! https://t.co/VROQlc3ae3
+2022-08-25	Boards just got way better in @NotionHQ… and there’s more hidden in the release notes 🥰
+2022-08-25	Board cards in @NotionHQ are now editable on the fly. No need to open the context menu or the card itself 👏🏻 https://t.co/HlSDv9OnON
+2022-08-16	I see it, I like it, I want it, I got it.
+2022-08-16	Here at last: progress bars 💯 https://t.co/Ugm3ou20zU
+2022-08-12	Some new stuff we added to Notion recently: • Icons &amp; Reactions • Progress bar &amp; ring visualization • Default database templates • Single-select Relations • Status aggregation • Image align  And these are just teasers to what’s coming next 😇 Enjoy 💛
+2022-08-11	See all 7 🆕 features: https://t.co/jUD6Z21WOc
+2022-07-25	Guess what’s next? 😌
+2022-07-25	Open your database pages in SIDE PEEK!  Page content on the right, fully interactive database view on the left 👯 https://t.co/ZnTLcv0pNP
+2022-07-20	RT @NotionHQ: Your mobile app just got a (well-deserved 😅) upgrade. It’s now:  - faster — 2× on iOS, 3× on Android - redesigned using native components - easier to navigate, with a new home tab  And we’re just getting started! https://t.co/kMaEYZNBid
+2022-07-20	Your mobile app just got a (well-deserved 😅) upgrade. It’s now:  - faster — 2× on iOS, 3× on Android - redesigned using native components - easier to navigate, with a new home tab  And we’re just getting started! https://t.co/kMaEYZNBid
+2022-07-06	Save hundreds of ms every run, guaranteed👇
+2022-07-05	Introducing Bun - an incredibly fast all-in-one JavaScript runtime.   https://t.co/Yt6tAcnBQs
+2022-06-14	RT @raphaelschaad: I'm so excited to realize Cron's vision — which is dear to my heart — as part of Notion. I also can't wait to put my touches on Notion itself!  Thank you team, investors, users, friends &amp; family that are part of this journey 🧡🖤  Caught a few of our new teammates on camera … 🤗 https://t.co/pb12LZCFGB
+2022-06-13	I'm so excited to realize Cron's vision — which is dear to my heart — as part of Notion. I also can't wait to put my touches on Notion itself!  Thank you team, investors, users, friends &amp; family that are part of this journey 🧡🖤  Caught a few of our new teammates on camera … 🤗 https://t.co/pb12LZCFGB
+2022-06-09	Big news from our team today! @Cron is joining Notion to help you organize your most important resource: time.  https://t.co/Xcu6dpblYs
+2022-06-09	Happiest day of 2022. Cron brings in a new lens of Time through a beautifully crafted app, and a super talented team (and my Swiss brother @raphaelschaad) to solve the hardest software problem — How do we create a tool that feels so good like Cron, yet so flexible like Notion?
+2022-06-09	Couldn't be happier to announce that @Cron  has been acquired by @NotionHQ 🥳  → Read from @raphaelschaad about the exciting road ahead: https://t.co/wuIApPWUqe https://t.co/b1HpiJBvsz
+2022-06-02	This is why I'm making @NotionHQ — instead of wasting brains on the same problems like data modeling, collaboration, search, we want to solve these once, so people can free up their minds to solve the actual problems they face.
+2022-06-02	@parkerhendo @bnj most people are going through the same process, recreating the same patterns, to solve the same problems — rather than a lack of innovation, we are just spending duplicative effort to build convergent "simple" solutions.
+2022-05-19	RT @alhyunsoo: Growing the product design team is a top priority for us @NotionHQ — wanted to share a few details about who we are and what we’re up to 🙂 https://t.co/d4r531IIca
+2022-05-19	Growing the product design team is a top priority for us @NotionHQ — wanted to share a few details about who we are and what we’re up to 🙂 https://t.co/d4r531IIca
+2022-05-04	RT @NotionHQ: Need to connect two databases together? Use a relation!  1️⃣ Create a relation property 2️⃣ Pick a second database to relate 3️⃣ Check the preview and add it 4️⃣ Start linking items from the other DB! https://t.co/xyvtbpeoCT
+2022-05-03	Need to connect two databases together? Use a relation!  1️⃣ Create a relation property 2️⃣ Pick a second database to relate 3️⃣ Check the preview and add it 4️⃣ Start linking items from the other DB! https://t.co/xyvtbpeoCT
+2022-04-22	RT @jsngr: powerful prototyping with code in @figma is coming soon from @diagram  https://t.co/mbR1Zao9Yj https://t.co/bwaYSpEGBn
+2022-04-21	powerful prototyping with code in @figma is coming soon from @diagram  https://t.co/mbR1Zao9Yj https://t.co/bwaYSpEGBn
+2022-04-20	RT @andrea_w_lim: can’t believe my li’l notion stories got nominated for a telly! if they gave you the feels, please vote: https://t.co/zoghbGqi5F
+2022-04-18	can’t believe my li’l notion stories got nominated for a telly! if they gave you the feels, please vote: https://t.co/zoghbGqi5F
+2022-01-05	For small steps. And giant leaps 📦✈️ https://t.co/XNufRkj9fp
+2022-04-01	Designing at @NotionHQ is like: (We’re hiring!) https://t.co/reZsbo0uPn
+2022-03-28	Smarter, simpler filters that update themselves, now only take 2 clicks to make.
+2022-03-28	We heard feedback that it was hard to set up relative date filters 🐌   Now it only takes a couple clicks! Use this to create dynamic views such as “Tasks due today” or “Events within the next month.” https://t.co/yHZ0iFX7QH
+2022-03-15	Our first step to make "databases" easy to set up and use, not just for technical people, but for everyone. Enjoy and tell your friends💛
+2022-03-15	Introducing: BETTER DATABASES!  🆕 Discover and switch views with tabs 🆕 Apply quick filters in just 2-3 clicks 🆕 Recreate existing views instantly  And way more: https://t.co/DCJWaBLrAZ
+2022-03-12	Who’s the best designer you know who might be a good fit for @NotionHQ?   Looking for more friends thank you 🙏🙏
+2022-03-03	RT @NotionHQ: 🙇🏻 Thanks for hanging with us today at Block by Block!   If you missed the event, no sweat — we’ve got a full recap with a video of the keynote and all our announcements here: https://t.co/KKR5P5lZDg https://t.co/zMiQ98hA5a
+2022-03-02	🙇🏻 Thanks for hanging with us today at Block by Block!   If you missed the event, no sweat — we’ve got a full recap with a video of the keynote and all our announcements here: https://t.co/KKR5P5lZDg https://t.co/zMiQ98hA5a
+2025-02-28	There is no secret sauce to making something great.   It just takes a group of believers who care, who are unafraid to build and try crazy ideas.  https://t.co/JwnNQCGS2P
+2022-02-28	RT @ProductHunt: This interactive list has resources on how to help Ukraine including:  • Resources on where &amp; how to donate 💵 • Resources on how to help without donating money 🤝 • Unbiased media to listen to 📺  • Country-specific help resources 🌎  https://t.co/CQrIFNGPOP https://t.co/AZnRKqnZQ2
+2022-02-28	This interactive list has resources on how to help Ukraine including:  • Resources on where &amp; how to donate 💵 • Resources on how to help without donating money 🤝 • Unbiased media to listen to 📺  • Country-specific help resources 🌎  https://t.co/CQrIFNGPOP https://t.co/AZnRKqnZQ2
+2022-02-23	RT @NotionHQ: @noahraskin_ Not a glitch! We just updated our dark mode palette 😎
+2022-02-22	@noahraskin_ Not a glitch! We just updated our dark mode palette 😎
+2022-02-11	Better databases in teams. More to come!
+2022-02-08	New permission level for databases! Grant a teammate “Can edit content” access:  → They can still create and edit DB pages → They CANNOT change the structure of DB properties, views, filters or sorts  No more database accidents 🙈 https://t.co/4i7P3Ddf2Y
+2022-01-20	RT @jitl: This is what I've been building since June 2021. It took ~100+ pull requests with 26247 added lines, 11078 removed lines. Thanks to @jdan @toolness @zen0wu and everyone else at Notion who helped along the way 🎉 https://t.co/zS5t8LH0AF
+2022-01-19	This is what I've been building since June 2021. It took ~100+ pull requests with 26247 added lines, 11078 removed lines. Thanks to @jdan @toolness @zen0wu and everyone else at Notion who helped along the way 🎉 https://t.co/zS5t8LH0AF
+2022-01-19	We finally did it 😤 Notion’s text editor has been completely rebuilt to combine:  - the flexibility of “blocks”  - the ease of a traditional word processor  Rolling out this month on desktop &amp; mobile: SELECT TEXT ACROSS MULTIPLE BLOCKS! https://t.co/9quc4GxtTJ
+2022-01-18	We love chairs and good stories.
+2022-01-18	A place to start something. Together ✌🏾🪑 https://t.co/DNZWoLxOQy
+2022-01-05	💕 https://t.co/5MbZSEJHaF
+2022-01-05	For small steps. And giant leaps 📦✈️ https://t.co/XNufRkj9fp
+2022-01-05	RT @WilliamNutt: 1/ @NotionHQ was generous with new features this holiday season. Let's unwrap them.  📝+📹+🧵 https://t.co/sE31nJwGo0
+2022-01-03	1/ @NotionHQ was generous with new features this holiday season. Let's unwrap them.  📝+📹+🧵 https://t.co/sE31nJwGo0
+2021-12-20	RT @NotionHQ: At the core of Notion are people — those who use the product and those who build it.  To show how we plan to create a lasting company and community, we’re sharing our values.   We hope they demonstrate our dedication to craft, and our commitment to you.  https://t.co/klkM9Vxfz1
+2021-12-16	At the core of Notion are people — those who use the product and those who build it.  To show how we plan to create a lasting company and community, we’re sharing our values.   We hope they demonstrate our dedication to craft, and our commitment to you.  https://t.co/klkM9Vxfz1
+2021-11-27	RT @rsms: Profound realization from the Design Principles Behind Smalltalk: https://t.co/vrnRp4kqGt https://t.co/Rie67sid3s
+2021-11-25	Profound realization from the Design Principles Behind Smalltalk: https://t.co/vrnRp4kqGt https://t.co/Rie67sid3s
+2021-11-18	One less reason not to use Notion for team docs. @alhyunsoo and team made sure the threads snap and expand smoothly in any layout.   You should try it 😉
+2021-11-17	Comments just got easier to find and respond to 🔑  You'll now see them in the right hand margin of your page by default. Click to expand longer comment threads! https://t.co/72R1vuxVo6
+2021-11-16	RT @NotionHQ: SIMPLE TABLES are here! Type /table to get started 🏓 https://t.co/YMPuR51LKn
+2021-11-16	SIMPLE TABLES are here! Type /table to get started 🏓 https://t.co/YMPuR51LKn
+2021-11-15	*whispers* try /table in @NotionHQ, enjoy
+2021-11-02	RT @NotionHQ: Introducing: LINK PREVIEWS 🔗→🖼️   Create automatically up-to-date previews by pasting links to:  • GitHub PRs • Jira issues • Slack messages • Trello cards • Asana tasks  And we'll add support for more tools soon. This is just the beginning! https://t.co/Xo4N2KtlzE
+2021-11-02	Introducing: LINK PREVIEWS 🔗→🖼️   Create automatically up-to-date previews by pasting links to:  • GitHub PRs • Jira issues • Slack messages • Trello cards • Asana tasks  And we'll add support for more tools soon. This is just the beginning! https://t.co/Xo4N2KtlzE
+2021-10-20	RT @mariepoulin: So @NotionHQ just implemented one of the most ridiculously useful updates to the product that opens up a lot of possibilities. GROUPING.  Here are some of the fun ways I'm using it:
+2021-10-18	So @NotionHQ just implemented one of the most ridiculously useful updates to the product that opens up a lot of possibilities. GROUPING.  Here are some of the fun ways I'm using it:
+2021-10-19	All-new Grouping makes it easy to recreate common app views with Notion databases. In just a few clicks, build: - Swimlane board by Assignee and Priority - Timeline by Project relation - Tasks by Week - KRs by Objectives - Docs by Creator  The possibilities are endless! Enjoy 🥰
+2021-10-19	There's a new 🔧 in your 🧰 to help you be more productive with databases.  Click the GROUP button in your Tables, Timelines, Lists &amp; Galleries to visually organize your content by any property.  Hide the groups you don't need with the toggles to the left! https://t.co/J6F0F5kOBn
+2021-10-15	Notion just launched in Japan! I chatted with @cultibase about how we were able to design and build Notion with a lean team.  English translation: https://t.co/Z1Ese0lhQz
+2021-10-14	Notionというプロダクトが、どのように作られているのか。 高品質なプロダクトを提供するために、どんなチーム、思想で作られているのか。  Notionが大事にする、ものづくりの精神をデザイナー @ryolu_  がお答えしています。 https://t.co/nnXlMMjqv0
+2021-10-08	We’re still far away from realizing our mission to unlock the power of software toolmaking for any person and teams on the planet. Come join us.
+2021-10-08	Gm! Today @NotionHQ is announcing $275M in new funding led by Coatue &amp; @sequoia, with participation from @Base10Partners @ShineCapitalNYC  You can read details here: https://t.co/lLPp0jQf34  But in this thread, I want to bring it back to why we're here &amp; where we're headed.  1/7
+2021-10-07	RT @NotionHQ: Earlier this year, we split our single backend database into 480 shards — but 5 minutes of maintenance was just the tip of the iceberg!  Our team spent months architecting this migration to ensure scalability for years to come 🏔 Here's what we learned: https://t.co/tBylPs6PjN
+2021-10-06	Earlier this year, we split our single backend database into 480 shards — but 5 minutes of maintenance was just the tip of the iceberg!  Our team spent months architecting this migration to ensure scalability for years to come 🏔 Here's what we learned: https://t.co/tBylPs6PjN
+2021-09-24	Small but game changing, a page in your Notion workspace can now be your home on the internet.   https://t.co/Mh9VCygB1l no longer points to an error 😋
+2021-09-21	"What's the link to your site?"  "Oh it's acmedesign dot notion dot site slash dd5a6abe47444a53b7170afd67942d77"  🙅🏾‍♂️🙅🏼🙅🏻‍♀️  Now for folks with paid plans, you can set a public home page like https://t.co/tf1bBQcNJy! https://t.co/LFWYQtgloq
+2021-09-22	A big step towards a stronger collaboration layer in Notion, elegantly done by @alhyunsoo and team ✨
+2021-09-21	💬 Introducing: better comments!!  See every comment on a page at a glance, and respond to any comment thread — all consolidated in your new right-hand sidebar. https://t.co/6zgE0h71go

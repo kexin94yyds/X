@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-channel="@NavalismHQ"
+channel="@naval"
 name="${channel#@}"
 outfile="${name}_test.txt"
 
